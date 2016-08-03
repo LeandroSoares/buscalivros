@@ -1,3 +1,16 @@
+<?php
+    
+    $url = 'https://www.googleapis.com';
+    $api = '/books/v1/volumes?';
+    $search = http_build_query($_GET);
+
+    $query = $url . $api . $search;
+
+    if($search!=''){
+        $contents = file_get_contents($query);
+    }   
+?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -12,28 +25,47 @@
 <body>
     <header id="header"></header>
     <div id="main">
-        teste
-<?php
-    
-    $url = 'https://www.googleapis.com';
-    $api = '/books/v1/volumes?';
-    $search = http_build_query($_GET);
+        <h1>Busca livros</h1>
+        <h3>query: "<?php echo $query ?>"</h3>
+        <div class="container">
+        <form action="index.php" method='GET' >
+            <div class="input-group stylish-input-group col-md-6 col-md-offset-3">
+                <input name='q'type="text" class="form-control" placeholder="Search">
+                <span class="input-group-btn">
+                    <button class="btn btn-primary btn-md" type="button">
+                        <i class="glyphicon glyphicon-search"></i>
+                    </button>
+                </span>
+            </div>
+        </form>
+        </div>
+    <?php 
+    if($contents){
 
-    $query = $url . $api . $search;
+        $value = json_decode($contents,true);
+        // echo "<pre>";
+        // print_r($value);
+        // echo "</pre>";
+        foreach ($value['items'] as $item) {
+            echo "<p> {$item['volumeInfo']['title']},";
+            $authors = $item['volumeInfo']['authors'];
+            
+            $authorLength = count($authors);
+            $isAutores = ($authorLength>1);
+            
+            echo ($isAutores ? " Autores: ":" Autor: ");
+           
+            foreach ($authors as $author) {
+                echo $author.(($isAutores && $author!=$authors[$authorLength-1])?", ":'');
+            }
 
-echo 'search: '.$search.'.<br/>';
-    echo "<h1>Procurando no site: $url</h1> <h2>\"$query\"</h2> ";
-    if($search!='')
-    {
-
-        $contents = file_get_contents($query);
-        echo '<pre>';
-        print_r($contents);
-        echo "</pre>";
-    }   
-    
-    
-?>
+            $smallThumb = "".$item['volumeInfo']['imageLinks']['smallThumbnail'];
+            $thumb = "".$item['volumeInfo']['imageLinks']['thumbnail'];
+            echo "<img src='{$smallThumb}'>";
+            echo "</p>";
+        }
+    }
+    ?>
     </div>
     <footer id="footer"></footer>
 </body>
