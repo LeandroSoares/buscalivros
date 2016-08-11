@@ -1,0 +1,757 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 497,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "e4T6DiT4JA0C",
+   "etag": "9khSeW/qJ+Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/e4T6DiT4JA0C",
+   "volumeInfo": {
+    "title": "OBJECT-ORIENTED PROGRAMMING WITH C++ AND JAVA",
+    "authors": [
+     "DEBASIS SAMANTA"
+    ],
+    "publisher": "PHI Learning Pvt. Ltd.",
+    "publishedDate": "2006-01-01",
+    "description": "This book is designed to introduce object-oriented programming (OOP) in C++ and Java, and is divided into four areas of coverage: Preliminaries: Explains the basic features of C, C++, and Java such as data types, operators, control structures, storage classes, and array structures. Part I : Covers classes, objects, data abstraction, function overloading, information hiding, memory management, inheritance, binding, polymorphism, class template using working illustrations based on simple concepts. Part II : Discusses all the paradigms of Java programming with ready-to-use programs. Part III : Contains eight Java packages with their full structures. The book offers straightforward explanations of the concepts of OOP and discusses the use of C++ and Java in OOP through small but effective illustrations. It is ideally suited for undergraduate/postgraduate courses in computer science. The IT professionals should also find the book useful.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8120316207"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788120316201"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 344,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=e4T6DiT4JA0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=e4T6DiT4JA0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=e4T6DiT4JA0C&printsec=frontcover&dq=oop&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=e4T6DiT4JA0C&dq=oop&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/OBJECT_ORIENTED_PROGRAMMING_WITH_C++_AND.html?hl=&id=e4T6DiT4JA0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/OBJECT_ORIENTED_PROGRAMMING_WITH_C++_AND-sample-pdf.acsm?id=e4T6DiT4JA0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=e4T6DiT4JA0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book is designed to introduce object-oriented programming (OOP) in C++ and Java, and is divided into four areas of coverage: Preliminaries: Explains the basic features of C, C++, and Java such as data types, operators, control ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lEKnfHgJ8ewC",
+   "etag": "l3GtSIwMCq8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lEKnfHgJ8ewC",
+   "volumeInfo": {
+    "title": "Beginning C# Object-Oriented Programming",
+    "authors": [
+     "Dan Clark"
+    ],
+    "publisher": "Apress",
+    "publishedDate": "2013-12-06",
+    "description": "Learn C# with Beginning C# Object-Oriented Programming and you’ll be thinking about program design in the right way from day one. Whether you want to work with .NET for the web or desktop, or for Windows 8 on any device, Dan Clark's accessible, quick-paced guide will give you the foundation you need for a successful future in C# programming. In this book you will: Master the fundamentals of object-oriented programming Work through a case study to see how C# and OOP work in a real-world application Develop techniques and best practices that lead to efficient, reusable, elegant code Discover how to transform a simple model of an application into a fully-functional C# project. With more than 30 fully hands-on activities, Beginning C# Object-Oriented Programming teaches you how to design a user interface, implement your business logic, and integrate your application with a relational database for data storage. Along the way, you will explore the .NET Framework, ASP.NET and WinRT. In addition, you will develop desktop, mobile and web-based user interfaces, and service-oriented programming skills, all using Microsoft's industry-leading Visual Studio 2012, C#, the Entity Framework, and more. Read this book and let Dan Clark guide you in your journey to becoming a confident C# programmer.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781430249368"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1430249366"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=lEKnfHgJ8ewC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=lEKnfHgJ8ewC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=lEKnfHgJ8ewC&printsec=frontcover&dq=oop&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=lEKnfHgJ8ewC&dq=oop&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Beginning_C_Object_Oriented_Programming.html?hl=&id=lEKnfHgJ8ewC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 115.54,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 115.54,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=lEKnfHgJ8ewC&dq=oop&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.1554E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.1554E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Beginning_C_Object_Oriented_Programming-sample-pdf.acsm?id=lEKnfHgJ8ewC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=lEKnfHgJ8ewC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Read this book and let Dan Clark guide you in your journey to becoming a confident C# programmer."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oTm73R90eL4C",
+   "etag": "sB2syUuArd8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oTm73R90eL4C",
+   "volumeInfo": {
+    "title": "OOP",
+    "subtitle": "Building Reusable Components with Microsoft Visual Basic .NET",
+    "authors": [
+     "Kenneth L. Spencer",
+     "Tom Eberhard",
+     "John Alexander"
+    ],
+    "publishedDate": "2002",
+    "description": "Object Oriented Programming (OOP) is now a reality with Microsoft Visual Basic .NET. This hands-on reference teaches professional programmers the proven, real-world strategies for constructing rich, object-oriented frameworks for complex business applications-faster and more efficiently. Focusing on a crucial problem many businesses face today, the shortage of skilled application developers, this book details how to quickly create reusable code components using Visual Basic.NET. All the book's code examples are contained on a companion CD-ROM.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0735613796"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780735613799"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 491,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=oTm73R90eL4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=oTm73R90eL4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=oTm73R90eL4C&q=oop&dq=oop&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=oTm73R90eL4C&dq=oop&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/OOP.html?hl=&id=oTm73R90eL4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=oTm73R90eL4C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Focusing on a crucial problem many businesses face today, the shortage of skilled application developers, this book details how to quickly create reusable code components using Visual Basic.NET."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "c5n_-J4rG30C",
+   "etag": "+cQMxJM/xN8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c5n_-J4rG30C",
+   "volumeInfo": {
+    "title": "From COBOL to OOP",
+    "authors": [
+     "Markus Knasmüller"
+    ],
+    "publisher": "Morgan Kaufmann",
+    "publishedDate": "2004",
+    "description": "Driven by the year-2000 problem, the hordes of COBOL developers experienced a renaissance, but the times when COBOL was state-of-the-art are long gone. Object-orientation, application servers, web front-ends, and relational database systems dominate the scene for new projects today. The fact remains however, that millions of lines of source code written in the structured programming language COBOL work daily on computer systems all over the world. One problem that COBOL developers have to deal with on these new projects is familiarity with object-oriented concepts. Markus Knasmüller, rich with experiences of OO projects in COBOL development teams, offers a successful introduction for the experienced COBOL programmer. A careful approach across techniques familiar to COBOL developers and discussions of current standards make this book easily accessible and understandable. *A practical approach to OOP using the concepts and techniques familiar to the experienced COBOL programmer. *Written independently from any specific programming environment, and all programming examples written in both Delphi and Java. *Detailed case study describing the successful migration of 10 million lines of COBOL code to object-oriented programming. *Companion CD-ROM containing all tutorial sections of the book in PowerPoint and all sample solutions to the problems ready for compilation.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1558608222"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781558608221"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 342,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=c5n_-J4rG30C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=c5n_-J4rG30C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=c5n_-J4rG30C&printsec=frontcover&dq=oop&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=c5n_-J4rG30C&dq=oop&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/From_COBOL_to_OOP.html?hl=&id=c5n_-J4rG30C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/From_COBOL_to_OOP-sample-pdf.acsm?id=c5n_-J4rG30C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=c5n_-J4rG30C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A careful approach across techniques familiar to COBOL developers and discussions of current standards make this book easily accessible and understandable. *A practical approach to OOP using the concepts and techniques familiar to the ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "1ID1r_Zw1PQC",
+   "etag": "LjncHlKACNA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/1ID1r_Zw1PQC",
+   "volumeInfo": {
+    "title": "OOP Demystified",
+    "authors": [
+     "James Keogh",
+     "Mario Giannini"
+    ],
+    "publisher": "McGraw Hill Professional",
+    "publishedDate": "2004-03-08",
+    "description": "Learn object-oriented programming in no time with help from this easy-to-understand guide, ideal for novice and expert programmers alike. Discover why objects are so successful as the model for this type of programming and how objects are classified. Distinguish between how people see the world and how computers “see” it. Learn about attributes and methods, inheritance, polymorphism, real-world and case modeling, object-oriented programming languages, and much more. Each chapter ends with a quiz, culminating in a final exam at the end of the book so you can test your knowledge.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0072253630"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780072253634"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=1ID1r_Zw1PQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=1ID1r_Zw1PQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=1ID1r_Zw1PQC&printsec=frontcover&dq=oop&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=1ID1r_Zw1PQC&dq=oop&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/OOP_Demystified.html?hl=&id=1ID1r_Zw1PQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/OOP_Demystified-sample-pdf.acsm?id=1ID1r_Zw1PQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=1ID1r_Zw1PQC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Looking to brush up on modeling, classes, and attributes? Then OOP Demystified is the easy-to-understand, step-by-step guidebook that will help you figure out the ins-and-outs of object-oriented programming (OOP)."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dJ_DXvFnIgoC",
+   "etag": "8sxLaz/rQIM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dJ_DXvFnIgoC",
+   "volumeInfo": {
+    "title": "Fundamentals of OOP and Data Structures in Java",
+    "authors": [
+     "Richard Wiener",
+     "Lewis J. Pinson"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2000-06-05",
+    "description": "Fundamentals of OOP and Data Structures in Java is a text for an introductory course on classical data structures. Part One of the book presents the basic principles of Object-Oriented Programming (OOP) and Graphical User Interface (GUI) programming with Java as the example language. Part Two introduces each of the major data structures with supporting, GUI-based laboratory programs designed to reinforce the basic concepts and principles of the text. These laboratories allow the reader to explore and experiment with the properties of each data structure. All source code for the laboratories is available on the web. By integrating the principles of OOP and GUI programming, this book takes the unique path of presenting the fundamental issues of data structures within the context of paradigms that are essential to today's professional software developer. The authors assume the reader has only an elementary understanding of Java and no experience with OOP.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521662206"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521662208"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 463,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=dJ_DXvFnIgoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=dJ_DXvFnIgoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=dJ_DXvFnIgoC&pg=PA4&dq=oop&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=dJ_DXvFnIgoC&dq=oop&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Fundamentals_of_OOP_and_Data_Structures.html?hl=&id=dJ_DXvFnIgoC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=dJ_DXvFnIgoC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In order to use C++ effectively as an object-oriented language, the programmer \u003cbr\u003e\nmust impose rigorous constraints and style guidelines. Even with such discipline, \u003cbr\u003e\nthe C-like nature of C++ allows programmers to work around basic \u003cb\u003eOOP\u003c/b\u003e rules&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-9_1dUvH87wC",
+   "etag": "yYKO4gjcldM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-9_1dUvH87wC",
+   "volumeInfo": {
+    "title": "Object-Oriented Programming with Php5",
+    "authors": [
+     "Hasin Hayder"
+    ],
+    "publisher": "Packt Publishing Ltd",
+    "publishedDate": "2007-12-30",
+    "description": "Learn to leverage PHP5's OOP features to write manageable applications with ease.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1847192572"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781847192578"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 273,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "3.7.9.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=-9_1dUvH87wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=-9_1dUvH87wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=-9_1dUvH87wC&printsec=frontcover&dq=oop&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=-9_1dUvH87wC&dq=oop&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Object_Oriented_Programming_with_Php5.html?hl=&id=-9_1dUvH87wC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 45.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 45.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=-9_1dUvH87wC&dq=oop&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.599E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.599E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=-9_1dUvH87wC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Learn to leverage PHP5&#39;s OOP features to write manageable applications with ease."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xb-sAQAAQBAJ",
+   "etag": "KyJRClzY7eA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xb-sAQAAQBAJ",
+   "volumeInfo": {
+    "title": "OOP - Learn Object Oriented Thinking & Programming",
+    "subtitle": "",
+    "authors": [
+     "Rudolf Pecinovsky"
+    ],
+    "publisher": "Tomáš Bruckner",
+    "publishedDate": "2013-11-01",
+    "description": "You can find a whole range of programming textbooks intended for complete beginners. However, this one is exceptional to certain extent. The whole textbook is designed as a record of the dialogue of the author with his daughter who wants to learn programming. The author endeavors not to explain the Java programming language to the readers, but to teach them real programming. To teach them how to think and design the program as the experienced programmers do. Entire matter is explained in a very illustrative way which means even a current secondary school student can understand it quite simply.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788090466180"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8090466184"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 526,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=xb-sAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=xb-sAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=xb-sAQAAQBAJ&printsec=frontcover&dq=oop&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=xb-sAQAAQBAJ&dq=oop&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/OOP_Learn_Object_Oriented_Thinking_Progr.html?hl=&id=xb-sAQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=xb-sAQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "You can find a whole range of programming textbooks intended for complete beginners."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ulfe8QKi6B4C",
+   "etag": "ToQHT7XqYiM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ulfe8QKi6B4C",
+   "volumeInfo": {
+    "title": "Object-Oriented Programming with Visual Basic.NET",
+    "authors": [
+     "Michael McMillan"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2004-06-21",
+    "description": "Goes from the basics of classes, inheritance and interfaces to advanced concepts such as reflection, object persistence, design patterns and refactoring.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0521539838"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780521539838"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=ulfe8QKi6B4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=ulfe8QKi6B4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=ulfe8QKi6B4C&printsec=frontcover&dq=oop&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ulfe8QKi6B4C&dq=oop&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Object_Oriented_Programming_with_Visual.html?hl=&id=ulfe8QKi6B4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=ulfe8QKi6B4C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Goes from the basics of classes, inheritance and interfaces to advanced concepts such as reflection, object persistence, design patterns and refactoring."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QEIPAQAAMAAJ",
+   "etag": "wWi+akRAGJs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QEIPAQAAMAAJ",
+   "volumeInfo": {
+    "title": "C++ and the OOP Paradigm",
+    "authors": [
+     "Bindu Rama Rao"
+    ],
+    "publisher": "McGraw-Hill",
+    "publishedDate": "1993",
+    "description": "Provides an in-depth look at object-oriented programming concepts and implementations in C++. Each chapter of the book concentrates on one important concept and includes a detailed analysis, a survey of the most recent developments on the topic and practical examples in C++ demonstrating the application of the concept.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0070511403"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780070511408"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 188,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=QEIPAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=QEIPAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=QEIPAQAAMAAJ&q=oop&dq=oop&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=QEIPAQAAMAAJ&dq=oop&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/C++_and_the_OOP_Paradigm.html?hl=&id=QEIPAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=QEIPAQAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Each chapter of the book concentrates on one important concept and includes a detailed analysis, a survey of the most recent developments on the topic and practical examples in C++ demonstrating the application of the concept."
+   }
+  }
+ ]
+}

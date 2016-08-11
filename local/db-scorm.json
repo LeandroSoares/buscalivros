@@ -1,0 +1,893 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 513,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "rAFrCQAAQBAJ",
+   "etag": "SIOx8tnQ+qI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rAFrCQAAQBAJ",
+   "volumeInfo": {
+    "title": "Advances in Web-Based Learning",
+    "subtitle": "First International Conference, ICWL 2002, Hong Kong, China, August 17-19, 2002. Proceedings",
+    "authors": [
+     "Joseph Fong",
+     "Chu Ting Cheung",
+     "Hong Va Leong",
+     "Qing Li"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2003-08-02",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540456896"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3540456899"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 442,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=rAFrCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=rAFrCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=rAFrCQAAQBAJ&pg=PA176&dq=scorm&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=rAFrCQAAQBAJ&dq=scorm&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Advances_in_Web_Based_Learning.html?hl=&id=rAFrCQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 269.64,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 269.64,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=rAFrCQAAQBAJ&dq=scorm&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.6964E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.6964E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Advances_in_Web_Based_Learning-sample-pdf.acsm?id=rAFrCQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=rAFrCQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The third system implementation is based on \u003cb\u003eSCORM\u003c/b\u003e 1.2, which was released by \u003cbr\u003e\nADL in October 2001. In comparison to \u003cb\u003eSCORM\u003c/b\u003e 1.1, \u003cb\u003eSCORM\u003c/b\u003e 1.2 has several \u003cbr\u003e\nimportant improvements. Regarding metadata specification, the \u003cb\u003eSCORM\u003c/b\u003e 1.2 sits\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HfZqCQAAQBAJ",
+   "etag": "BFTqaBP/3Ko",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HfZqCQAAQBAJ",
+   "volumeInfo": {
+    "title": "On The Move to Meaningful Internet Systems 2003: CoopIS, DOA, and ODBASE",
+    "subtitle": "OTM Confederated International Conferences CoopIS, DOA, and ODBASE 2003 Catania, Sicily, Italy, November 3–7, 2003 Proceedings",
+    "authors": [
+     "Zahir Tari",
+     "Douglas C. Schmidt"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2003-10-25",
+    "description": "missions in fact also treat an envisaged mutual impact among them. As for the 2002 edition in Irvine, the organizers wanted to stimulate this cross-pollination with a program of shared famous keynote speakers (this year we got Sycara, - ble, Soley and Mylopoulos!), and encouraged multiple attendance by providing authors with free access to another conference or workshop of their choice. We received an even larger number of submissions than last year for the three conferences (360 in total) and the workshops (170 in total). Not only can we therefore again claim a measurable success in attracting a representative volume of scienti?c papers, but such a harvest allowed the program committees of course to compose a high-quality cross-section of worldwide research in the areas covered. In spite of the increased number of submissions, the Program Chairs of the three main conferences decided to accept only approximately the same number of papers for presentation and publication as in 2002 (i. e. , around 1 paper out of every 4–5 submitted). For the workshops, the acceptance rate was about 1 in 2. Also for this reason, we decided to separate the proceedings into two volumes with their own titles, and we are grateful to Springer-Verlag for their collaboration in producing these two books. The reviewing process by the respective program committees was very professional and each paper in the main conferences was reviewed by at least three referees.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540399643"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "354039964X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1546,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=HfZqCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=HfZqCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=HfZqCQAAQBAJ&pg=PA632&dq=scorm&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=HfZqCQAAQBAJ&dq=scorm&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/On_The_Move_to_Meaningful_Internet_Syste.html?hl=&id=HfZqCQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 245.13,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 245.13,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=HfZqCQAAQBAJ&dq=scorm&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.4513E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.4513E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/On_The_Move_to_Meaningful_Internet_Syste-sample-pdf.acsm?id=HfZqCQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=HfZqCQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003escorm\u003c/b\u003e:objectiveMeasure “0.5”] } ] [a \u003cb\u003escorm\u003c/b\u003e:RollUp; daml-s:ifCondition {\u003cb\u003escorm\u003c/b\u003e:\u003cbr\u003e\ntheLearner \u003cb\u003escorm\u003c/b\u003e:satisfied :Chapter2} daml-s:then { \u003cb\u003escorm\u003c/b\u003e:theLearner \u003cb\u003escorm\u003c/b\u003e:\u003cbr\u003e\nsatisfied [\u003cb\u003escorm\u003c/b\u003e:activityObjective :Lesson02; \u003cb\u003escorm\u003c/b\u003e:objectiveMeasure “1.0”] } ) ]."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YjbyBwAAQBAJ",
+   "etag": "jOBjWg86/p8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YjbyBwAAQBAJ",
+   "volumeInfo": {
+    "title": "Embedded and Ubiquitous Computing - EUC 2005 Workshops",
+    "subtitle": "EUC 2005 Workshops: UISW, NCUS, SecUbiq, USN, and TAUES, Nagasaki, Japan, December 8-9, 2005",
+    "authors": [
+     "Tomoya Enokido",
+     "Lu Yan",
+     "Bin Xiao",
+     "Daeyoung Kim",
+     "Yuanshun Dai",
+     "Laurence T. Yang"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2005-11-25",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540322962"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3540322965"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1317,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=YjbyBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=YjbyBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=YjbyBwAAQBAJ&pg=PA174&dq=scorm&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=YjbyBwAAQBAJ&dq=scorm&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Embedded_and_Ubiquitous_Computing_EUC_20.html?hl=&id=YjbyBwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 494.42,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 494.42,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=YjbyBwAAQBAJ&dq=scorm&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.9442E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.9442E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Embedded_and_Ubiquitous_Computing_EUC_20-sample-pdf.acsm?id=YjbyBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=YjbyBwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The learner might be off-line, the Learning Agent stores those learning records in \u003cbr\u003e\nthe \u003cb\u003eSCORM\u003c/b\u003e PDA Database temporarily. After it is on-line, those temporary stored \u003cbr\u003e\nlearning records will be sent back to the Server. \u003cb\u003eSCORM\u003c/b\u003e PDA Reader Due to&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Eybg8lq2SMkC",
+   "etag": "Txv852A4T7c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Eybg8lq2SMkC",
+   "volumeInfo": {
+    "title": "Handbook on Quality and Standardisation in E-Learning",
+    "authors": [
+     "Ulf-Daniel Ehlers",
+     "Jan Martin Pawlowski"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2006-10-11",
+    "description": "For building a knowledge society, it is critically important to thoroughly understand quality and standards in e-learning. The handbook provides a cross-national perspective on these issues and draws a clear picture of the situation in quality development and standardization. It gives a concise overview on the field of quality research which can be used for teaching purposes and contains examples of quality and standards and practice.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783540327882"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3540327886"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 574,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=Eybg8lq2SMkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=Eybg8lq2SMkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=Eybg8lq2SMkC&pg=PA216&dq=scorm&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Eybg8lq2SMkC&dq=scorm&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Handbook_on_Quality_and_Standardisation.html?hl=&id=Eybg8lq2SMkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 729.33,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 729.33,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=Eybg8lq2SMkC&dq=scorm&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7.2933E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 7.2933E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Handbook_on_Quality_and_Standardisation-sample-epub.acsm?id=Eybg8lq2SMkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Handbook_on_Quality_and_Standardisation-sample-pdf.acsm?id=Eybg8lq2SMkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=Eybg8lq2SMkC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A \u003cb\u003eSCORM\u003c/b\u003e package is an archive in a common format (e.g., zip as defined by \u003cbr\u003e\nRFC1951 (Deutsch, 1996)) built with a predefined structure of its content. The \u003cbr\u003e\nmost important part of the content is an XML-file called manifest-file containing all\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "U7XNZzhxfH4C",
+   "etag": "0PRP4vir9H8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/U7XNZzhxfH4C",
+   "volumeInfo": {
+    "title": "Advances in Web Based Learning - ICWL 2009",
+    "subtitle": "8th International Conference, Aachen, Germany, August 19-21, 2009, Proceedings",
+    "authors": [
+     "Marc Spaniol",
+     "Qing Li",
+     "Ralf Klamma"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2009-08-06",
+    "description": "This book constitutes the refereed proceedings of the 8th International Conference on Web-Based Learning, ICWL 2009, held in Aachen, Germany, in August 2009. The 38 revised full papers and 14 short papers are presented together with three invited papers and were carefully reviewed and selected from 106 submissions. They deal with topics such as technology enhanced learning, web-based learning for oriental languages, mobile learning, social software and Web 2.0 for technology enhanced learning, learning resource deployment, organization and management, design, model and framework of E-learning systems, e-learning metadata and standards, educational gaming and multimedia storytelling for learning, as well as practice and experience sharing and pedagogical Issues.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642034251"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "364203425X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 478,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=U7XNZzhxfH4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=U7XNZzhxfH4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=U7XNZzhxfH4C&pg=PA197&dq=scorm&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=U7XNZzhxfH4C&dq=scorm&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Advances_in_Web_Based_Learning_ICWL_2009.html?hl=&id=U7XNZzhxfH4C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Advances_in_Web_Based_Learning_ICWL_2009-sample-pdf.acsm?id=U7XNZzhxfH4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=U7XNZzhxfH4C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Despite all of this, however, instructors still need to invest a great deal of effort to \u003cbr\u003e\nconstruct adaptive \u003cb\u003eSCORM\u003c/b\u003e compliant courses, which apart from the \u003cb\u003eSCORM\u003c/b\u003e \u003cbr\u003e\nframework, also require knowledge of learning style theories, and programming&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "369hHqvVGWIC",
+   "etag": "ZQannyoM8gs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/369hHqvVGWIC",
+   "volumeInfo": {
+    "title": "ECEL2004-3rd European Conference on E-Learning",
+    "subtitle": "ECEL2004",
+    "authors": [
+     "D. Remenyi"
+    ],
+    "publisher": "Academic Conferences Limited",
+    "publishedDate": "2004-01-01",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780954709679"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0954709675"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Distance education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=369hHqvVGWIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=369hHqvVGWIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=369hHqvVGWIC&pg=PA135&dq=scorm&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=369hHqvVGWIC&dq=scorm&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/ECEL2004_3rd_European_Conference_on_E_Le.html?hl=&id=369hHqvVGWIC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=369hHqvVGWIC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "ADL&#39;s strategy has been to provide a focus for standards bodies by harmonising \u003cbr\u003e\ntheir efforts in a reference model called \u003cb\u003eSCORM\u003c/b\u003e (Sharable Content Objects \u003cbr\u003e\nReference Model). ADL provides both a forum and technology test bed for the&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "N7-oCAAAQBAJ",
+   "etag": "trnXOLPKINY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/N7-oCAAAQBAJ",
+   "volumeInfo": {
+    "title": "Software Services for e-World",
+    "subtitle": "10th IFIP WG 6.11 Conference on e-Business, e-Services, and e-Society, I3E 2010, Buenos Aires, Argentina, November 3-5, 2010, Proceedings",
+    "authors": [
+     "Wojciech Cellary",
+     "Elsa Estevez"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2010-10-12",
+    "description": "th I3E 2010 marked the 10 anniversary of the IFIP Conference on e-Business, e- Services, and e-Society, continuing a tradition that was invented in 1998 during the International Conference on Trends in Electronic Commerce, TrEC 1998, in Hamburg (Germany). Three years later the inaugural I3E 2001 conference was held in Zurich (Switzerland). Since then I3E has made its journey through the world: 2002 Lisbon (Portugal), 2003 Sao Paulo (Brazil), 2004 Toulouse (France), 2005 Poznan (Poland), 2006 Turku (Finland), 2007 Wuhan (China), 2008 Tokyo (Japan), and 2009 Nancy (France). I3E 2010 took place in Buenos Aires (Argentina) November 3–5, 2010. Known as “The Pearl” of South America, Buenos Aires is a cosmopolitan, colorful, and vibrant city, surprising its visitors with a vast variety of cultural and artistic performances, European architecture, and the passion for tango, coffee places, and football disc- sions. A cultural reference in Latin America, the city hosts 140 museums, 300 theaters, and 27 public libraries including the National Library. It is also the main educational center in Argentina and home of renowned universities including the U- versity of Buenos Aires, created in 1821. Besides location, the timing of I3E 2010 is th also significant––it coincided with the 200 anniversary celebration of the first local government in Argentina.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642162831"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3642162835"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 306,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=N7-oCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=N7-oCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=N7-oCAAAQBAJ&pg=PA119&dq=scorm&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=N7-oCAAAQBAJ&dq=scorm&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Software_Services_for_e_World.html?hl=&id=N7-oCAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 280.15,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 280.15,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=N7-oCAAAQBAJ&dq=scorm&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.8015E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.8015E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Software_Services_for_e_World-sample-pdf.acsm?id=N7-oCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=N7-oCAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Today, ADL \u003cb\u003eSCORM\u003c/b\u003e [3] (Shareable Content Object Reference Model) has \u003cbr\u003e\nbecome the de facto standard to allow content developed within one learning \u003cbr\u003e\nsystem to be exported and used in all other systems. Despite the fact that \u003cbr\u003e\n\u003cb\u003eSCORM\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "puFmCwAAQBAJ",
+   "etag": "haJRl9Y7CCE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/puFmCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Handbook of Research on Cloud-Based STEM Education for Improved Learning Outcomes",
+    "authors": [
+     "Chao, Lee"
+    ],
+    "publisher": "IGI Global",
+    "publishedDate": "2016-01-18",
+    "description": "As technology advances, so must our education system. Cloud computing serves as an ideal method for e-learning thanks to its flexibility, affordability, and availability. Cloud-based learning is especially dynamic in STEM education, as it can significantly lower the cost of building cumbersome computer labs while fostering engaged learning and collaboration among students. The Handbook of Research on Cloud-Based STEM Education for Improved Learning Outcomes prepares current and future instructors for exciting breakthroughs in STEM education driven by the advancement of cloud technologies. From virtual lab and app construction, to information sharing and course material distribution, this volume touches on a variety of topics related to the benefits and challenges of adopting cloud technologies in the classroom. This book is an invaluable reference for educators, technology professionals, administrators, and education students who wish to become leaders in their fields.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781466699250"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1466699256"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 481,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=puFmCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=puFmCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=puFmCwAAQBAJ&pg=PA242&dq=scorm&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=puFmCwAAQBAJ&dq=scorm&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Handbook_of_Research_on_Cloud_Based_STEM.html?hl=&id=puFmCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 952.8,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 952.8,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=puFmCwAAQBAJ&dq=scorm&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9.528E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9.528E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Handbook_of_Research_on_Cloud_Based_STEM-sample-pdf.acsm?id=puFmCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=puFmCwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eSCORM\u003c/b\u003e: \u003cb\u003eSCORM\u003c/b\u003e stands for “Sharable Content Object Reference Model”. “\u003cbr\u003e\nSharable Content Object” indicates that \u003cb\u003eSCORM\u003c/b\u003e is all about creating units of \u003cbr\u003e\nonline training material that can be shared across systems. \u003cb\u003eSCORM\u003c/b\u003e defines how \u003cbr\u003e\nto create&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pGKdBQAAQBAJ",
+   "etag": "GUQGNPRZ8Us",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pGKdBQAAQBAJ",
+   "volumeInfo": {
+    "title": "How to use Moodle 2.7",
+    "subtitle": "Teacher’s Manual for the world’s most popular LMS",
+    "authors": [
+     "Jaswinder Singh"
+    ],
+    "publisher": "Jaswinder Singh",
+    "publishedDate": "2014-11-27",
+    "description": "Moodle 2.7 is the LTS version of the most popular open source learning management system supported by a large community at www.moodle.org This book is a reference manual for the teachers to start teaching with Moodle.",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 355,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=pGKdBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=pGKdBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=pGKdBQAAQBAJ&pg=PA251&dq=scorm&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=pGKdBQAAQBAJ&dq=scorm&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/How_to_use_Moodle_2_7.html?hl=&id=pGKdBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 130.34,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 130.34,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=pGKdBQAAQBAJ&dq=scorm&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.3034E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.3034E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/How_to_use_Moodle_2_7-sample-pdf.acsm?id=pGKdBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=pGKdBQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Moodle provides a number of ways to share the tools and educational resource \u003cbr\u003e\ncreated in some other systems. A teacher can utilize the videos, quizzes and \u003cbr\u003e\nother activities which are created in standard packages like \u003cb\u003eSCORM\u003c/b\u003e, LTI \u003cbr\u003e\ncompliant&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KXO9AQAAQBAJ",
+   "etag": "mW1YO5eVR9k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KXO9AQAAQBAJ",
+   "volumeInfo": {
+    "title": "Advances in Computer-Supported Learning",
+    "authors": [
+     "Neto, Francisco Milton Mendes"
+    ],
+    "publisher": "IGI Global",
+    "publishedDate": "2006-07-31",
+    "description": "\"This book clarifies the new technologies, applications, and research in computer-supported learning. It helps students, teachers, and researchers gain a larger understanding of this field and the trends that are driving computer-supported learning forward\"--Provided by publisher.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781599043579"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1599043572"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 390,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=KXO9AQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=KXO9AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=KXO9AQAAQBAJ&pg=PA210&dq=scorm&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=KXO9AQAAQBAJ&dq=scorm&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Advances_in_Computer_Supported_Learning.html?hl=&id=KXO9AQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 285.68,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 285.68,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=KXO9AQAAQBAJ&dq=scorm&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.8568E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.8568E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Advances_in_Computer_Supported_Learning-sample-pdf.acsm?id=KXO9AQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=KXO9AQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The \u003cb\u003eSCORM\u003c/b\u003e (sharable content object reference) model is an interrelated set of \u003cbr\u003e\nspecifications techniques mainly established in the previous work of the AICC, \u003cbr\u003e\nIMS and IEEE. The \u003cb\u003eSCORM\u003c/b\u003e aims at the creation of a “Content Model.” Different&nbsp;..."
+   }
+  }
+ ]
+}

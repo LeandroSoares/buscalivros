@@ -1,0 +1,688 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 522,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "2EwMAAAAYAAJ",
+   "etag": "Rzc/aP6L5JQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2EwMAAAAYAAJ",
+   "volumeInfo": {
+    "title": "A Biblia Sagrada contendo o Velho e o Novo Testamento, traduzida em portuguez",
+    "publishedDate": "1850",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "HARVARD:AH24BQ"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1139,
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 18,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=2EwMAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=2EwMAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=2EwMAAAAYAAJ&printsec=frontcover&dq=biblia&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=2EwMAAAAYAAJ&dq=biblia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/A_Biblia_Sagrada_contendo_o_Velho_e_o_No.html?hl=&id=2EwMAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "http://books.google.com.br/books?id=2EwMAAAAYAAJ&dq=biblia&hl=&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/A_Biblia_Sagrada_contendo_o_Velho_e_o_No.pdf?id=2EwMAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1FH3jPpqU7y2HM-EDkMVHc8rnceQ&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=2EwMAAAAYAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YoZLAAAAIAAJ",
+   "etag": "/lnulZoz9bg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YoZLAAAAIAAJ",
+   "volumeInfo": {
+    "title": "Biblia Sagrada, contendo o Velho e o Novo Testamento",
+    "subtitle": "Traduzida em Portuguez pelo Joao Ferreira A. d'Almeida",
+    "publishedDate": "1860",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCAL:$B246627"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1169,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=YoZLAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=YoZLAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YoZLAAAAIAAJ&printsec=frontcover&dq=biblia&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=YoZLAAAAIAAJ&dq=biblia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Biblia_Sagrada_contendo_o_Velho_e_o_Novo.html?hl=&id=YoZLAAAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "http://books.google.com.br/books?id=YoZLAAAAIAAJ&dq=biblia&hl=&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/Biblia_Sagrada_contendo_o_Velho_e_o_Novo.pdf?id=YoZLAAAAIAAJ&hl=&output=pdf&sig=ACfU3U2CBJc1BaVyHamAvNu4PyLNgx93vw&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=YoZLAAAAIAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JP8A3Um1DKgC",
+   "etag": "IfSX12A3JR0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JP8A3Um1DKgC",
+   "volumeInfo": {
+    "title": "A Bíblia",
+    "subtitle": "Uma biografia",
+    "authors": [
+     "Karen Armstrong"
+    ],
+    "publisher": "Zahar",
+    "publishedDate": "2007-11-01",
+    "description": "Traduzido em mais de dois mil idiomas, a Bíblia é o livro mais conhecido do mundo. Calcula-se que já tenham sido vendidos mais de seis bilhões de exemplares e ninguém duvida que o conteúdo de suas páginas mudou e continua influenciando nossa história. A brilhante estudiosa do pensamento religioso Karen Armstrong mostra que a principal função da Bíblia não foi apoiar doutrinas e crenças particulares e, embora os autores bíblicos se contradigam, suas visões múltiplas convivem num mesmo livro. Para ela, este é um indício claro de que toda interpretação da Bíblia significa necessariamente abertura de espírito. \"A Bíblia\" faz parte da coleção \"Livros que Mudaram o Mundo\", reunindo biografias de títulos que modificaram sua época e, até hoje, marcam nossa forma de pensar. Desta coleção, a Zahar já publicou \"A Origem das Espécies de Darwin\", \"Os Direitos do Homem de Thomas Paine\" e \"O Capital de Marx\".",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788537809211"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8537809217"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 278,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.3.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=JP8A3Um1DKgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=JP8A3Um1DKgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=JP8A3Um1DKgC&printsec=frontcover&dq=biblia&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=JP8A3Um1DKgC&dq=biblia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/A_B%C3%ADblia.html?hl=&id=JP8A3Um1DKgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 15.96,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 15.96,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=JP8A3Um1DKgC&dq=biblia&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.596E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.596E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_B%C3%ADblia-sample-epub.acsm?id=JP8A3Um1DKgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_B%C3%ADblia-sample-pdf.acsm?id=JP8A3Um1DKgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=JP8A3Um1DKgC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A brilhante estudiosa do pensamento religioso Karen Armstrong mostra que a principal função da Bíblia não foi apoiar doutrinas e crenças particulares e, embora os autores bíblicos se contradigam, suas visões múltiplas convivem num ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iIl83kPj0ywC",
+   "etag": "twOXZ8LVdhA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iIl83kPj0ywC",
+   "volumeInfo": {
+    "title": "Enciclopédia da Bíblia",
+    "authors": [
+     "JOHN DRANE",
+     "BARBARA THEOTO LAMBERT"
+    ],
+    "publisher": "Edicoes Loyola",
+    "description": "A Bíblia não é apenas um livro, mas toda uma biblioteca. Como toda biblioteca, contém vários tipos de literatura, escrito por pessoas diferentes em épocas distintas e com propósitos diferenciados. Apresenta contos, canções, poesia e história, bem como ensinamentos religiosos apresentados de várias formas, incluindo narrativas antigas junto de cartas corriqueiras, visões e outros tipos de literatura.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515036127"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8515036126"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=iIl83kPj0ywC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=iIl83kPj0ywC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=iIl83kPj0ywC&printsec=frontcover&dq=biblia&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=iIl83kPj0ywC&dq=biblia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Enciclop%C3%A9dia_da_B%C3%ADblia.html?hl=&id=iIl83kPj0ywC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=iIl83kPj0ywC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A Bíblia não é apenas um livro, mas toda uma biblioteca."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xSrejWDv_FwC",
+   "etag": "YYAvXX9KEiI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xSrejWDv_FwC",
+   "volumeInfo": {
+    "title": "A Biblia Sagrada contendo o Velho e o Novo Testamento traduzida em portuguez por---",
+    "publishedDate": "1865",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "BDM:13020100005767"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1222,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "full-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=xSrejWDv_FwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=xSrejWDv_FwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xSrejWDv_FwC&printsec=frontcover&dq=biblia&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=xSrejWDv_FwC&dq=biblia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/A_Biblia_Sagrada_contendo_o_Velho_e_o_No.html?hl=&id=xSrejWDv_FwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "http://books.google.com.br/books?id=xSrejWDv_FwC&dq=biblia&hl=&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.com.br/books/download/A_Biblia_Sagrada_contendo_o_Velho_e_o_No.pdf?id=xSrejWDv_FwC&hl=&output=pdf&sig=ACfU3U1rx3rkDKbkq9mqKKLV5ekqQKzQFA&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=xSrejWDv_FwC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XhkMPUeA5b0C",
+   "etag": "nikt1GVkeA8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XhkMPUeA5b0C",
+   "volumeInfo": {
+    "title": "O que a Biblia realmente diz sobre homossexualidade",
+    "authors": [
+     "Daniel A Helminiak"
+    ],
+    "publisher": "Edicoes GLS",
+    "publishedDate": "1998",
+    "description": "O autor, padre católico com doutorado em teologia, cita fielmente todos os trechos em que há menção de homossexualidade e analisa seu significado de acordo com os mais recentes estudos históricos, apontando o engano de quem vê condenação de homossexuais na Bíblia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8586755079"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788586755071"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 143,
+    "printType": "BOOK",
+    "categories": [
+     "Homosexuality"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=XhkMPUeA5b0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=XhkMPUeA5b0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=XhkMPUeA5b0C&printsec=frontcover&dq=biblia&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=XhkMPUeA5b0C&dq=biblia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/O_que_a_Biblia_realmente_diz_sobre_homos.html?hl=&id=XhkMPUeA5b0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=XhkMPUeA5b0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O autor, padre católico com doutorado em teologia, cita fielmente todos os trechos em que há menção de homossexualidade e analisa seu significado de acordo com os mais recentes estudos históricos, apontando o engano de quem vê ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "mfmr8jQkri8C",
+   "etag": "/qSNAZNOe24",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mfmr8jQkri8C",
+   "volumeInfo": {
+    "title": "A bíblia Hebraica como obra aberta",
+    "subtitle": "uma proposta interdisciplinar para uma semiologia bíblica",
+    "authors": [
+     "Eliana Branco Malanga"
+    ],
+    "publisher": "Editora Humanitas",
+    "publishedDate": "2005",
+    "description": "Este livro pretende demonstrar como é possível à semiologia ser um instrumento útil para o estudo científico da Bíblia. O conceito de 'obra aberta' de Umberto Eco, que designa a obra artística, é aqui empregado para entender como pôde a Bíblia Hebraica so",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "859829263X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788598292632"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 335,
+    "printType": "BOOK",
+    "categories": [
+     "Bible"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=mfmr8jQkri8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=mfmr8jQkri8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mfmr8jQkri8C&printsec=frontcover&dq=biblia&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=mfmr8jQkri8C&dq=biblia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/A_b%C3%ADblia_Hebraica_como_obra_aberta.html?hl=&id=mfmr8jQkri8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=mfmr8jQkri8C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O conceito de &#39;obra aberta&#39; de Umberto Eco, que designa a obra artística, é aqui empregado para entender como pôde a Bíblia Hebraica so"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UVlDAFpzKZsC",
+   "etag": "F/fgRUIKthQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UVlDAFpzKZsC",
+   "volumeInfo": {
+    "title": "A Bíblia e o trabalhador",
+    "publisher": "Edicoes Loyola",
+    "publishedDate": "1991",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8515003260"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788515003266"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 71,
+    "printType": "BOOK",
+    "categories": [
+     "Bible"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=UVlDAFpzKZsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=UVlDAFpzKZsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=UVlDAFpzKZsC&pg=PA23&dq=biblia&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=UVlDAFpzKZsC&dq=biblia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/A_B%C3%ADblia_e_o_trabalhador.html?hl=&id=UVlDAFpzKZsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=UVlDAFpzKZsC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "OS TRABALHADORES NA \u003cb\u003eBÍBLIA\u003c/b\u003e A. Os trabalhadores no começo da história de \u003cbr\u003e\nIsrael A \u003cb\u003eBíblia\u003c/b\u003e fala muito da realidade do trabalhador e do trabalho. Falar disso é \u003cbr\u003e\nfalar da história do campesinato, a principal força social produtiva daqueles&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qfAAuqtWfvsC",
+   "etag": "dOk62hwRYBA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qfAAuqtWfvsC",
+   "volumeInfo": {
+    "title": "A Bíblia e a Arqueologia",
+    "authors": [
+     "JOHN A. THOMPSON"
+    ],
+    "publisher": "Arte Editorial",
+    "description": "Nos últimos anos, a Bíblia vem sendo desafiada por leigos e eruditos, que têm interpretado achados da arqueologia, história e paleografia como evidências de que a Bíblia não tinha razão. No entanto, tais interpretações não têm se sustentado, mas apontado para o extremo oposto. Com dezenas de fotos de artefatos e locais mencionados na Bíblia, 'A Bíblia e a Arqueologia' foi elaborada como um grande panorama das descobertas arqueológicas relacionadas às Escrituras, tanto do Antigo quanto do Novo Testamento num só volume. Esta edição ilustrada é uma obra essencial para a compreensão dos textos sagrados em seu contexto histórico e cultural.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788598172125"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "859817212X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 520,
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 9,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=qfAAuqtWfvsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=qfAAuqtWfvsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=qfAAuqtWfvsC&printsec=frontcover&dq=biblia&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=qfAAuqtWfvsC&dq=biblia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/A_B%C3%ADblia_e_a_Arqueologia.html?hl=&id=qfAAuqtWfvsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=qfAAuqtWfvsC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Com dezenas de fotos de artefatos e locais mencionados na Bíblia, &#39;A Bíblia e a Arqueologia&#39; foi elaborada como um grande panorama das descobertas arqueológicas relacionadas às Escrituras, tanto do Antigo quanto do Novo Testamento num ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jpHWa7Z8cnEC",
+   "etag": "U5N83hNNpmo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jpHWa7Z8cnEC",
+   "volumeInfo": {
+    "title": "Reencarnação Na Bíblia, a",
+    "authors": [
+     "Hermínio C. Miranda"
+    ],
+    "publisher": "Editora Pensamento",
+    "publishedDate": "1982*",
+    "description": "Existe incompatibilidade entre ser cristão e reencarnacionista? Crer na reencarnação implica negar a ressurreição? A doutrina da reencarnação está registrada na Bíblia de modo exotérico ou esotérico? Existe outra doutrina que mais se identifique com as ve",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8531505704"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788531505706"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 99,
+    "printType": "BOOK",
+    "categories": [
+     "Reincarnation"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=jpHWa7Z8cnEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=jpHWa7Z8cnEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=jpHWa7Z8cnEC&printsec=frontcover&dq=biblia&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=jpHWa7Z8cnEC&dq=biblia&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Reencarna%C3%A7%C3%A3o_Na_B%C3%ADblia_a.html?hl=&id=jpHWa7Z8cnEC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=jpHWa7Z8cnEC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Existe incompatibilidade entre ser cristão e reencarnacionista? Crer na reencarnação implica negar a ressurreição? A doutrina da reencarnação está registrada na Bíblia de modo exotérico ou esotérico?"
+   }
+  }
+ ]
+}

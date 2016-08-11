@@ -1,0 +1,740 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 559,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "_xv1frKVlp8C",
+   "etag": "TbmlXCJHwho",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_xv1frKVlp8C",
+   "volumeInfo": {
+    "title": "PHP",
+    "subtitle": "a bíblia",
+    "authors": [
+     "TIM CONVERSE",
+     "JOYCE PARK"
+    ],
+    "publisher": "Gulf Professional Publishing",
+    "publishedDate": "2003",
+    "description": "PHP é uma linguagem para a criação de scripts da Web do lado do servidor embutidos na HTML, cujo código-fonte é aberto e que é compatível com os mais importantes servidores da Web (mais notadamente o Apache). Nesta segunda edição do 'PHP - A Bíblia', os autores expandiram significativamente o tamanho do livro, tanto para cobrir novos recursos como para melhorar a cobertura de recursos já discutidos na primeira edição.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8535211306"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788535211306"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 868,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=_xv1frKVlp8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=_xv1frKVlp8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=_xv1frKVlp8C&printsec=frontcover&dq=php&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=_xv1frKVlp8C&dq=php&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/PHP.html?hl=&id=_xv1frKVlp8C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=_xv1frKVlp8C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "PHP é uma linguagem para a criação de scripts da Web do lado do servidor embutidos na HTML, cujo código-fonte é aberto e que é compatível com os mais importantes servidores da Web (mais notadamente o Apache)."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NhqtBes_oAAC",
+   "etag": "j02JLPWF+pI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NhqtBes_oAAC",
+   "volumeInfo": {
+    "title": "Php Hacks",
+    "authors": [
+     "JACK D. HERRINGTON"
+    ],
+    "publisher": "Bookman",
+    "description": "PHP é a linguagem usada em mais de 19 milhões de sites, e para quem deseja saber sobre PHP este é o livro que trata da tradicional programação para a Web, de mapas, gráficos e multimídias.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "857780156X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788577801565"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 424,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=NhqtBes_oAAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=NhqtBes_oAAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=NhqtBes_oAAC&dq=php&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=NhqtBes_oAAC&dq=php&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Php_Hacks.html?hl=&id=NhqtBes_oAAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=NhqtBes_oAAC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "PHP é a linguagem usada em mais de 19 milhões de sites, e para quem deseja saber sobre PHP este é o livro que trata da tradicional programação para a Web, de mapas, gráficos e multimídias."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S5A3FBxyGCkC",
+   "etag": "Zk1ZaPEmDJ0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S5A3FBxyGCkC",
+   "volumeInfo": {
+    "title": "Programando para a internet com PHP",
+    "authors": [
+     "LEANDRO FARIAS ESTROZI",
+     "JOAO DO E. S. BATISTA NETO",
+     "ODEMIR MARTINEZ BRUNO"
+    ],
+    "publisher": "Brasport",
+    "description": "Este livro foi escrito com o objetivo de facilitar o aprendizado da programação voltada para a internet. A linguagem PHP é uma ferramenta para a programação de aplicações voltadas para servidores web. O livro é voltado para estudantes universitários, profissionais e hobbistas, tendo como objetivo atender aos níveis iniciante e intermediário. Seu conteúdo apresenta suporte teórico para o aprendizado da programação para a internet. A teoria é combinada com o aprendizado prático por meio de exemplos. O livro está baseado no conceito de que a melhor maneira de se aprender programação de computadores é programando. Assim, dezenas de exemplos possibilitam ao leitor o aprendizado teórico de forma prática. Os exemplos podem ser facilmente adaptados para as próprias ideias do leitor, estimulando-o na arte da programação.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574524412"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8574524417"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 332,
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=S5A3FBxyGCkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=S5A3FBxyGCkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=S5A3FBxyGCkC&printsec=frontcover&dq=php&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=S5A3FBxyGCkC&dq=php&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Programando_para_a_internet_com_PHP.html?hl=&id=S5A3FBxyGCkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=S5A3FBxyGCkC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Assim, dezenas de exemplos possibilitam ao leitor o aprendizado teórico de forma prática. Os exemplos podem ser facilmente adaptados para as próprias ideias do leitor, estimulando-o na arte da programação."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7UanwE-k9y0C",
+   "etag": "J082k9MpLsw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7UanwE-k9y0C",
+   "volumeInfo": {
+    "title": "PHP & MySQL Guia Introdutório 3a edição",
+    "authors": [
+     "CLAUDIO ADONAI MUTO"
+    ],
+    "publisher": "Brasport",
+    "description": "Este livro traz os seguintes temas - Instalação e configuração do PHP e MySQL; Exemplos totalmente práticos que facilitam o aprendizado; Abordagem sobre classes e objetos, arrays, envio de emails, administração e utilização do banco de dados e avaliação de performance de queries no MySQL; Recursos completos para criação de websites dinâmicos acessando o MySQL; Criação de um site de e-commerce e cadastro de clientes on-line. Aprenda os conceitos da linguagem e sua integração com o banco de dados MySQL. O livro traz uma abordagem sobre como instalar, configurar e utilizar esses programas e como desenvolver qualquer aplicação comercial para a Web. Este livro é dirigido aos desenvolvedores e designers que desejam iniciar ou aprimorar a utilização da linguagem PHP em conjunto com o servidor de banco de dados MySQL para a criação de sites dinâmicos na Web.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788574522814"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8574522813"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 392,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=7UanwE-k9y0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=7UanwE-k9y0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7UanwE-k9y0C&printsec=frontcover&dq=php&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=7UanwE-k9y0C&dq=php&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/PHP_MySQL_Guia_Introdut%C3%B3rio_3a_edi%C3%A7%C3%A3o.html?hl=&id=7UanwE-k9y0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=7UanwE-k9y0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Este livro traz os seguintes temas - Instalação e configuração do PHP e MySQL; Exemplos totalmente práticos que facilitam o aprendizado; Abordagem sobre classes e objetos, arrays, envio de emails, administração e utilização do ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "06wSKse5mPkC",
+   "etag": "X5vQDpVN4mI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/06wSKse5mPkC",
+   "volumeInfo": {
+    "title": "PHP para profissionais",
+    "authors": [
+     "Ricardo Ramos",
+     "Joel da Silva",
+     "Alexandre Álvaro",
+     "Ricardo Afonso"
+    ],
+    "publisher": "Universo dos Livros Editora",
+    "publishedDate": "2007",
+    "description": "Este livro contém todas as informações necessárias para quem deseja ingressar na área de programação em PHP, sempre aliando teoria à prática para um melhor aproveitamento dos conceitos expostos. O conteúdo do livro é composto por um histórico da linguagem PHP desde a sua origem ligada à linguagem Perl e seu principais propósitos. O leitor aprenderá diversas noções sobre programação e quais as estruturas e requisitos necessários para a implementação do PHP, pois na seqüência será iniciada a parte prática, com a programação propriamente dita. O capítulo sobre a linguagem inclui o desenvolvimento dos Scripts embutidos em HTML e também sua comunicação com banco de dados. O livro também contém tópicos avançados sobre PHP, incluindo orientação a objetos e criação de cookies em XML.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788560480647"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8560480641"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 138,
+    "printType": "BOOK",
+    "categories": [
+     "Self-Help"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=06wSKse5mPkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=06wSKse5mPkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=06wSKse5mPkC&printsec=frontcover&dq=php&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=06wSKse5mPkC&dq=php&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/PHP_para_profissionais.html?hl=&id=06wSKse5mPkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.95,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.95,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=06wSKse5mPkC&dq=php&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.995E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.995E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/PHP_para_profissionais-sample-pdf.acsm?id=06wSKse5mPkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=06wSKse5mPkC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O conteúdo do livro é composto por um histórico da linguagem PHP desde a sua origem ligada à linguagem Perl e seu principais propósitos."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YAndfR-tdT0C",
+   "etag": "WAImhjiltNk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YAndfR-tdT0C",
+   "volumeInfo": {
+    "title": "DESENVOLVENDO SISTEMAS COM FLEX E PHP",
+    "authors": [
+     "DANIEL PACE SCHMITZ"
+    ],
+    "publisher": "Novatec Editora",
+    "publishedDate": "2009-01-01",
+    "description": "O livro 'Desenvolvendo Sistemas com Flex e PHP' tem o objetivo de introduzir os conceitos sobre o desenvolvimento de um sistema web, utilizando as tecnologias PHP e Flex. Serão abordadas também outras tecnologias, tais como MySQL, AMFPHP, WAMPServer e CPanel. Ensina como criar um software desde o princípio, abordando todos os passos para a correta comunicação entre o Flex e o PHP, além de facilitar a programação e empregar a segurança necessária para diminuir a exposição de vulnerabilidades no software. Também é abordada a união entre as empresas Adobe e Zend, que estão trabalhando juntas para a integração de suas tecnologias, proporcionando uma melhoria significativa entre o Flex o PHP.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575221884"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8575221884"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 296,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=YAndfR-tdT0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=YAndfR-tdT0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=YAndfR-tdT0C&printsec=frontcover&dq=php&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=YAndfR-tdT0C&dq=php&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/DESENVOLVENDO_SISTEMAS_COM_FLEX_E_PHP.html?hl=&id=YAndfR-tdT0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=YAndfR-tdT0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O livro &#39;Desenvolvendo Sistemas com Flex e PHP&#39; tem o objetivo de introduzir os conceitos sobre o desenvolvimento de um sistema web, utilizando as tecnologias PHP e Flex."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3BlbiA4z4n0C",
+   "etag": "Gg33YA1OIso",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3BlbiA4z4n0C",
+   "volumeInfo": {
+    "title": "O Guia Prático do Dreamweaver CS3 com PHP, JavaScript e Ajax",
+    "authors": [
+     "PEDRO REMOALDO"
+    ],
+    "publisher": "Centro Atlantico",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789896150587"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9896150583"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 676,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=3BlbiA4z4n0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=3BlbiA4z4n0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=3BlbiA4z4n0C&pg=PA357&dq=php&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=3BlbiA4z4n0C&dq=php&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/O_Guia_Pr%C3%A1tico_do_Dreamweaver_CS3_com_P.html?hl=&id=3BlbiA4z4n0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 51.23,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 51.23,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=3BlbiA4z4n0C&dq=php&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.123E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.123E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Guia_Pr%C3%A1tico_do_Dreamweaver_CS3_com_P-sample-pdf.acsm?id=3BlbiA4z4n0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=3BlbiA4z4n0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... browser e por isso imediatamente utilizável com o Dreamweaver, para criar \u003cbr\u003e\npáginas dinâmicas é necessário instalar em primeiro lugar um servidor Web (\u003cbr\u003e\nApache), uma linguagem de programação server-side (\u003cb\u003ePHP\u003c/b\u003e) e um sistema de \u003cbr\u003e\ngestão&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "noi76uKOJ5wC",
+   "etag": "B17uRZgtgT8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/noi76uKOJ5wC",
+   "volumeInfo": {
+    "title": "PHP Reference: Beginner to Intermediate PHP5",
+    "authors": [
+     "Mario Lurig"
+    ],
+    "publisher": "Mario Lurig",
+    "publishedDate": "2008-04",
+    "description": "A collection of over 250 PHP functions with clear explanations in language anyone can understand, followed with as many examples as it takes to understand what the function does and how it works. This book includes numerous additional tips, the basics of PHP, MySQL query examples, regular expressions syntax, and two indexes to help you find information faster: a common language index and a function index. When the internet is not around or you want a simpler explanation along with all the technical details, this book has all of that and more.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781435715905"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "143571590X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 164,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=noi76uKOJ5wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=noi76uKOJ5wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=noi76uKOJ5wC&printsec=frontcover&dq=php&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=noi76uKOJ5wC&dq=php&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/PHP_Reference_Beginner_to_Intermediate_P.html?hl=&id=noi76uKOJ5wC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=noi76uKOJ5wC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book includes numerous additional tips, the basics of PHP, MySQL query examples, regular expressions syntax, and two indexes to help you find information faster: a common language index and a function index."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "IpuT0GxHvAkC",
+   "etag": "zHUX+0r2JYc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IpuT0GxHvAkC",
+   "volumeInfo": {
+    "title": "Learning PHP & MySQL",
+    "subtitle": "Step-by-Step Guide to Creating Database-Driven Web Sites",
+    "authors": [
+     "Michele E. Davis",
+     "Jon A. Phillips"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2007-08-17",
+    "description": "PHP and MySQL are quickly becoming the de facto standard for rapid development of dynamic, database-driven web sites. This book is perfect for newcomers to programming as well as hobbyists who are intimidated by harder-to-follow books. With concepts explained in plain English, the new edition starts with the basics of the PHP language, and explains how to work with MySQL, the popular open source database. You then learn how to put the two together to generate dynamic content. If you come from a web design or graphics design background and know your way around HTML, Learning PHP & MySQL is the book you've been looking for. The content includes: PHP basics such as strings and arrays, and pattern matching A detailed discussion of the variances in different PHP versions MySQL data fundamentals like tables and statements Information on SQL data access for language A new chapter on XHTML Error handling, security, HTTP authentication, and more Learning PHP & MySQL explains everything from fundamental concepts to the nuts and bolts of performing specific tasks. As part of O'Reilly's bestselling Learning series, the book is an easy-to-use resource designed specifically for beginners. It's a launching pad for future learning, providing you with a solid foundation for more advanced development.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0596551657"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596551650"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 10,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.6.4.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=IpuT0GxHvAkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=IpuT0GxHvAkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=IpuT0GxHvAkC&pg=PA243&dq=php&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=IpuT0GxHvAkC&dq=php&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Learning_PHP_MySQL.html?hl=&id=IpuT0GxHvAkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=IpuT0GxHvAkC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "URL wrappers (continued) Supports rename Yes Supports mkdir Yes Supports \u003cbr\u003e\nrmdir Yes Attribute Supported Uploading Files It&#39;s a fairly common requirement \u003cbr\u003e\nfor a \u003cb\u003ePHP\u003c/b\u003e-based site to allow file uploads. For example, on a blog site, a user \u003cbr\u003e\nmay&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ifLqf_QsW-sC",
+   "etag": "isZusTE3uFM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ifLqf_QsW-sC",
+   "volumeInfo": {
+    "title": "SEGURANÇA EM PHP",
+    "subtitle": "DESENVOLVA PROGRAMAS PHP COM ALTO NÍVEL",
+    "authors": [
+     "MARCIO PESSOA"
+    ],
+    "publisher": "Novatec Editora",
+    "publishedDate": "2007-01-01",
+    "description": "As falhas de segurança em servidores web são um assunto, cada vez mais, em evidência, e é alarmante o crescimento de websites que sofrem ataques de todos os tipos. É necessário que os profissionais estejam sempre bem preparados e conheçam as maneiras corretas de impedir que vulnerabilidades sejam exploradas. 'Segurança em PHP' é uma obra de referência com conceitos e dicas preciosas tanto para programadores quanto para administradores de sistemas que têm como objetivo manter servidores e scripts PHP seguros e confiáveis. Além de abordar aspectos de programação segura referentes à linguagem PHP, o leitor encontrará dicas de como programar de maneira eficiente e como configurar o servidor web e as conexões com banco de dados de forma segura para minimizar as possibilidades de falhas na segurança.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788575221402"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857522140X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 152,
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=ifLqf_QsW-sC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=ifLqf_QsW-sC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ifLqf_QsW-sC&dq=php&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ifLqf_QsW-sC&dq=php&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/SEGURAN%C3%87A_EM_PHP.html?hl=&id=ifLqf_QsW-sC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=ifLqf_QsW-sC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "As falhas de segurança em servidores web são um assunto, cada vez mais, em evidência, e é alarmante o crescimento de websites que sofrem ataques de todos os tipos. É necessário que os profissionais estejam sempre bem preparados e ..."
+   }
+  }
+ ]
+}

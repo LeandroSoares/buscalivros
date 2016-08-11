@@ -1,0 +1,765 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 136,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "wYnIErcXCVQC",
+   "etag": "bBAH87q22lM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wYnIErcXCVQC",
+   "volumeInfo": {
+    "title": "O Meu Pé de Laranja Lima",
+    "authors": [
+     "José Mauro de Vasconcelos"
+    ],
+    "publisher": "Editora Melhoramentos",
+    "publishedDate": "2013-03-26",
+    "description": "O menino Zezé, filho de uma família muito pobre, cria um mundo de fantasia para se refugiar de sua dura realidade, conferindo alma a animais e árvores. Assim, um pé de laranja lima se torna seu confidente, a quem o menino conta suas travessuras e suas tristezas. No hostil mundo adulto, ele encontra amparo e afeto em algumas pessoas, sobretudo em Manuel Valadares, o Portuga, que substitui a figura do pai. A vida, porém, lhe ensina tudo cedo demais. A ingenuidade da infância perde-se no precoce aprendizado da dor e da saudade. Um clássico imperdível da literatura infantojuvenil. Um dos livros mais vendidos do Brasil e publicado em mais de vinte e um países. Veja também a continuação da história de Zezé em “Vamos Aquecer o Sol” e “Doidão”.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788506067581"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8506067588"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=wYnIErcXCVQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=wYnIErcXCVQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=wYnIErcXCVQC&pg=PT131&dq=meu+p%C3%A9+de+laranja+lima&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=wYnIErcXCVQC&dq=meu+p%C3%A9+de+laranja+lima&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/O_Meu_P%C3%A9_de_Laranja_Lima.html?hl=&id=wYnIErcXCVQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=wYnIErcXCVQC&dq=meu+p%C3%A9+de+laranja+lima&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.29E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.29E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Meu_P%C3%A9_de_Laranja_Lima-sample-epub.acsm?id=wYnIErcXCVQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Meu_P%C3%A9_de_Laranja_Lima-sample-pdf.acsm?id=wYnIErcXCVQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=wYnIErcXCVQC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Indicou o lugar onde estava o \u003cb\u003emeu pé de Laranja Lima\u003c/b\u003e. Fiz beiço de choro. - \u003cbr\u003e\nVocê está mentindo, não está, Totoca? - Não precisa ficar com essa cara de \u003cbr\u003e\nchoro. Ainda Vão demorar muito. Meus dedos nervosamente estavam contando \u003cbr\u003e\nas&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ju9JPgAACAAJ",
+   "etag": "doU0Gr0sN2M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ju9JPgAACAAJ",
+   "volumeInfo": {
+    "title": "O meu pé de laranja lima",
+    "authors": [
+     "José Mauro de ilustrac̜óes Vasconcelos"
+    ],
+    "publishedDate": "1996",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8506004683"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788506004685"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 190,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Ju9JPgAACAAJ&dq=meu+p%C3%A9+de+laranja+lima&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Ju9JPgAACAAJ&dq=meu+p%C3%A9+de+laranja+lima&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/O_meu_p%C3%A9_de_laranja_lima.html?hl=&id=Ju9JPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=Ju9JPgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B6OqlJ6-ToUC",
+   "etag": "Ey8BRZOv3vw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B6OqlJ6-ToUC",
+   "volumeInfo": {
+    "title": "O Meu Pé de Laranja Lima - Edição Especial do Filme",
+    "authors": [
+     "José Mauro de Vasconcelos"
+    ],
+    "publisher": "Editora Melhoramentos",
+    "publishedDate": "2013-03-26",
+    "description": "O menino Zezé, filho de uma família muito pobre, cria um mundo de fantasia para se refugiar de sua dura realidade, conferindo alma a animais e árvores. Assim, um pé de laranja lima se torna seu confidente, a quem o menino conta suas travessuras e suas tristezas. No hostil mundo adulto, ele encontra amparo e afeto em algumas pessoas, sobretudo em Manuel Valadares, o Portuga, que substitui a figura do pai. A vida, porém, lhe ensina tudo cedo demais. A ingenuidade da infância perde-se no precoce aprendizado da dor e da saudade. Um clássico imperdível da literatura infantojuvenil. Edição especial, com novo projeto gráfico e ricamente ilustrado com cenas do filme “Meu Pé de Laranja Lima”, do diretor Marcos Bernstein, de 2013. Veja também a continuação da história de Zezé em “Vamos Aquecer o Sol” e “Doidão”.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788506071311"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8506071313"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=B6OqlJ6-ToUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=B6OqlJ6-ToUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=B6OqlJ6-ToUC&printsec=frontcover&dq=meu+p%C3%A9+de+laranja+lima&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=B6OqlJ6-ToUC&dq=meu+p%C3%A9+de+laranja+lima&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/O_Meu_P%C3%A9_de_Laranja_Lima_Edi%C3%A7%C3%A3o_Espec.html?hl=&id=B6OqlJ6-ToUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=B6OqlJ6-ToUC&dq=meu+p%C3%A9+de+laranja+lima&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.2E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.2E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Meu_P%C3%A9_de_Laranja_Lima_Edi%C3%A7%C3%A3o_Espec-sample-epub.acsm?id=B6OqlJ6-ToUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=B6OqlJ6-ToUC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O menino Zezé, filho de uma família muito pobre, cria um mundo de fantasia para se refugiar de sua dura realidade, conferindo alma a animais e árvores."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "t-tstS5kdbMC",
+   "etag": "PRhYHVuFqBU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/t-tstS5kdbMC",
+   "volumeInfo": {
+    "title": "Narrativas Juvenis: Modos de Ler",
+    "authors": [
+     "Maria Alice Faria"
+    ],
+    "publisher": "Arte & Ciência",
+    "publishedDate": "1997",
+    "description": "Este livro é resultado de uma pesquisa desenvolvida com alunos do ensino médio, em que se procurou saber como são lidas as obras destinadas ao público jovem. Os livros selecionados são abordados de modo a proporcionar ao professor uma leitura crítica das",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8586127345"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788586127342"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 107,
+    "printType": "BOOK",
+    "categories": [
+     "Children"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=t-tstS5kdbMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=t-tstS5kdbMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=t-tstS5kdbMC&pg=PA35&dq=meu+p%C3%A9+de+laranja+lima&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=t-tstS5kdbMC&dq=meu+p%C3%A9+de+laranja+lima&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Narrativas_Juvenis_Modos_de_Ler.html?hl=&id=t-tstS5kdbMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=t-tstS5kdbMC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "2 O \u003cb\u003emeu pé de laranja lima\u003c/b\u003e ou &quot;a ternura da vida&quot; Maria Alice Faria Foi você \u003cbr\u003e\nquem me ensinou a ternura da vida, meu Portuga querido. José Mauro de \u003cbr\u003e\nVasconcelos Não vou esquecer nunca mais, porque chorei pra caramba. Mirelle \u003cbr\u003e\n(13 anos&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "RFyDCnAC438C",
+   "etag": "pPxK6G/iSwo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/RFyDCnAC438C",
+   "volumeInfo": {
+    "title": "Vamos Aquecer o Sol",
+    "authors": [
+     "José Mauro de Vasconcelos"
+    ],
+    "publisher": "Editora Melhoramentos",
+    "publishedDate": "2013-03-26",
+    "description": "Na continuidade do clássico “O Meu Pé de Laranja Lima”, o endiabrado Zezé está de volta, aos dez anos, doutor na arte das traquinagens, agora membro da família do seu padrinho médico. Apesar do conforto da nova vida em Natal, o menino não encontra o que procura: ternura e compreensão. Imaginativo, ele cria dois personagens que lhe dão o carinho ausente e lhe ensinam a aquecer o sol do próprio coração: o sapo Adão e o ator de cinema Maurice Chevalier. História que trata da passagem da infância para a adolescência, com a sensibilidade inconfundível do autor.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788506071168"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "850607116X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=RFyDCnAC438C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=RFyDCnAC438C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=RFyDCnAC438C&printsec=frontcover&dq=meu+p%C3%A9+de+laranja+lima&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=RFyDCnAC438C&dq=meu+p%C3%A9+de+laranja+lima&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Vamos_Aquecer_o_Sol.html?hl=&id=RFyDCnAC438C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=RFyDCnAC438C&dq=meu+p%C3%A9+de+laranja+lima&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.9E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.9E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Vamos_Aquecer_o_Sol-sample-epub.acsm?id=RFyDCnAC438C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Vamos_Aquecer_o_Sol-sample-pdf.acsm?id=RFyDCnAC438C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=RFyDCnAC438C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Na continuidade do clássico “O Meu Pé de Laranja Lima”, o endiabrado Zezé está de volta, aos dez anos, doutor na arte das traquinagens, agora membro da família do seu padrinho médico."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "NlQtAAAAYAAJ",
+   "etag": "lIDUZI625rg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NlQtAAAAYAAJ",
+   "volumeInfo": {
+    "title": "A ceia",
+    "subtitle": "romance",
+    "authors": [
+     "José Mauro de Vasconcelos"
+    ],
+    "publishedDate": "1975",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173022887794"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=NlQtAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=NlQtAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=NlQtAAAAYAAJ&q=meu+p%C3%A9+de+laranja+lima&dq=meu+p%C3%A9+de+laranja+lima&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=NlQtAAAAYAAJ&dq=meu+p%C3%A9+de+laranja+lima&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/A_ceia.html?hl=&id=NlQtAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=NlQtAAAAYAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "EM HOLANDÊS Já Publicada: O MEU PÊ DE LARANJA LIMA Contratada: \u003cbr\u003e\nARARA VERMELHA EM HÚNCARO Já Publicada: BARRO BLANCO Contratada\u003cbr\u003e\n: ARRAIA DE FOGO EM INGLÊS Já Publicada: O \u003cb\u003eMEU PÉ DE LARANJA LIMA\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pC5tGlDZo-kC",
+   "etag": "vcKVwTmRISg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pC5tGlDZo-kC",
+   "volumeInfo": {
+    "title": "Doidão",
+    "authors": [
+     "José Mauro de Vasconcelos"
+    ],
+    "publisher": "Editora Melhoramentos",
+    "publishedDate": "2013-03-26",
+    "description": "Na sequência de \"O Meu Pé de Laranja Lima\" e \"Vamos Aquecer o Sol\", o autor nos conta sobre um período marcante da sua juventude, quando, aos vinte anos, exímio nadador das praias e rios de Natal, gostava de viajar e queria fugir de um destino que a família havia traçado para ele: ser médico, como o pai. O jovem quer encontrar a si mesmo, porém só o que consegue é escandalizar a cidade e ser visto como vagabundo. A tristeza de Doidão aumenta quando ele abandona a natação e é pressionado pelo pai doente a romper com a namorada. Por fim, decide enfrentar tudo e todos. Parte em busca de sua felicidade. Parte para o mundo, que o espera de braços abertos. Leitores de todas as idades vão se identificar com “Doidão” e se impregnar da coragem e da opção pela liberdade do jovem herói.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788506071137"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8506071135"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=pC5tGlDZo-kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=pC5tGlDZo-kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=pC5tGlDZo-kC&printsec=frontcover&dq=meu+p%C3%A9+de+laranja+lima&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=pC5tGlDZo-kC&dq=meu+p%C3%A9+de+laranja+lima&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Doid%C3%A3o.html?hl=&id=pC5tGlDZo-kC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.0,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.0,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=pC5tGlDZo-kC&dq=meu+p%C3%A9+de+laranja+lima&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.9E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.9E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Doid%C3%A3o-sample-epub.acsm?id=pC5tGlDZo-kC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Doid%C3%A3o-sample-pdf.acsm?id=pC5tGlDZo-kC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=pC5tGlDZo-kC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A tristeza de Doidão aumenta quando ele abandona a natação e é pressionado pelo pai doente a romper com a namorada. Por fim, decide enfrentar tudo e todos. Parte em busca de sua felicidade."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZTQtAAAAYAAJ",
+   "etag": "WvkaTaGVRE0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZTQtAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Brazilian Authors Translated Abroad",
+    "publishedDate": "1994",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UTEXAS:059173002175407"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 259,
+    "printType": "BOOK",
+    "categories": [
+     "Authors, Brazilian"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=ZTQtAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=ZTQtAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=ZTQtAAAAYAAJ&q=meu+p%C3%A9+de+laranja+lima&dq=meu+p%C3%A9+de+laranja+lima&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ZTQtAAAAYAAJ&dq=meu+p%C3%A9+de+laranja+lima&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Brazilian_Authors_Translated_Abroad.html?hl=&id=ZTQtAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=ZTQtAAAAYAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "HOUSE, YEAR Ü \u003cb\u003emeu pé de laranja lima\u003c/b\u003e (romance) Naui raim orange namu. 42&quot; \u003cbr\u003e\ned. Don Won Park Korean Seul: Dong Nyuk, 1991.249p O \u003cb\u003emeu pé de laranja\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003elima\u003c/b\u003e (romance) My sweet-orange tree Edgar H. Miller Jr. English Londres: \u003cbr\u003e\nMichael&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "peQ9AQAAIAAJ",
+   "etag": "Tsp2oen+cog",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/peQ9AQAAIAAJ",
+   "volumeInfo": {
+    "title": "Manchete",
+    "publishedDate": "1984-07",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105007256956"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=peQ9AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=peQ9AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=peQ9AQAAIAAJ&q=meu+p%C3%A9+de+laranja+lima&dq=meu+p%C3%A9+de+laranja+lima&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=peQ9AQAAIAAJ&dq=meu+p%C3%A9+de+laranja+lima&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Manchete.html?hl=&id=peQ9AQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=peQ9AQAAIAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Para outros, um lutador que conseguiu a façanha de vender mais de um milhão \u003cbr\u003e\nde exemplares de seu livro O \u003cb\u003eMeu Pé de Laranja\u003c/b\u003e-\u003cb\u003eLima\u003c/b\u003e, o maior best-seller da \u003cbr\u003e\nliteratura brasileira de todos os tempos. José Mauro de Vasconcelos morreu em\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "q2FWBQAAQBAJ",
+   "etag": "VtbNR5PJfv4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/q2FWBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Aromas Do Amor",
+    "authors": [
+     "Fabiano Ribeiro Miranda"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2010-07-29",
+    "description": "VIVEMOS EM UM MUNDO CHEIO DE DOR E ALEGRIA ,SIM, PRECISAMOS DOS DOIS SENTIMENTOS PARA EQUILIBRARMOS E DARMOS VALOR À TUDO O QUE TEMOS..CONVIDO VOCÊS PARA UM PASSEIO PELOS CORAÇÕES SENTINDO O MELHOR AROMA..OS AROMAS DO AMOR! BOA LEITURA!",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90170348"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 200,
+    "printType": "BOOK",
+    "categories": [
+     "Drama"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=q2FWBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=q2FWBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=q2FWBQAAQBAJ&pg=PA181&dq=meu+p%C3%A9+de+laranja+lima&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=q2FWBQAAQBAJ&dq=meu+p%C3%A9+de+laranja+lima&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Aromas_Do_Amor.html?hl=&id=q2FWBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 18.3,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 18.3,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=q2FWBQAAQBAJ&dq=meu+p%C3%A9+de+laranja+lima&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.83E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.83E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Aromas_Do_Amor-sample-pdf.acsm?id=q2FWBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=q2FWBQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eMeu pé de laranja lima\u003c/b\u003e já cresceu, João cortou o pé de feijão, Tem bicho do pé \u003cbr\u003e\nno meu pé! A bruxa malvada agora é dona de casa, A cinderela mora no cabaré, \u003cbr\u003e\nE eu moro onde não mora ninguém. Eu já não escrevo mais poemas, Quem&nbsp;..."
+   }
+  }
+ ]
+}

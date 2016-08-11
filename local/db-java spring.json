@@ -1,0 +1,899 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 419,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "qRQ-ZWYY5ygC",
+   "etag": "QaYENQZoE8A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qRQ-ZWYY5ygC",
+   "volumeInfo": {
+    "title": "Agile Java Development with Spring, Hibernate and Eclipse",
+    "authors": [
+     "Anil Hemrajani"
+    ],
+    "publisher": "Sams Publishing",
+    "publishedDate": "2006-05-09",
+    "description": "Agile Java™ Development With Spring, Hibernate and Eclipse is a book about robust technologies and effective methods which help bring simplicity back into the world of enterprise Java development. The three key technologies covered in this book, the Spring Framework, Hibernate and Eclipse, help reduce the complexity of enterprise Java development significantly. Furthermore, these technologies enable plain old Java objects (POJOs) to be deployed in light-weight containers versus heavy-handed remote objects that require heavy EJB containers. This book also extensively covers technologies such as Ant, JUnit, JSP tag libraries and touches upon other areas such as such logging, GUI based debugging, monitoring using JMX, job scheduling, emailing, and more. Also, Extreme Programming (XP), Agile Model Driven Development (AMDD) and refactoring are methods that can expedite the software development projects by reducing the amount of up front requirements and design; hence these methods are embedded throughout the book but with just enough details and examples to not sidetrack the focus of this book. In addition, this book contains well separated, subjective material (opinion sidebars), comic illustrations, tips and tricks, all of which provide real-world and practical perspectives on relevant topics. Last but not least, this book demonstrates the complete lifecycle by building and following a sample application, chapter-by-chapter, starting from conceptualization to production using the technology and processes covered in this book. In summary, by using the technologies and methods covered in this book, the reader will be able to effectively develop enterprise-class Java applications, in an agile manner!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0132714906"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780132714907"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 360,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 8,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.7.6.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=qRQ-ZWYY5ygC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=qRQ-ZWYY5ygC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=qRQ-ZWYY5ygC&printsec=frontcover&dq=java+spring&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=qRQ-ZWYY5ygC&dq=java+spring&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Agile_Java_Development_with_Spring_Hiber.html?hl=&id=qRQ-ZWYY5ygC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 99.45,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 99.45,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=qRQ-ZWYY5ygC&dq=java+spring&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9.945E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9.945E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=qRQ-ZWYY5ygC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book also extensively covers technologies such as Ant, JUnit, JSP tag libraries and touches upon other areas such as such logging, GUI based debugging, monitoring using JMX, job scheduling, emailing, and more."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BFlF1TQQ26gC",
+   "etag": "0W9nwizXOl8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BFlF1TQQ26gC",
+   "volumeInfo": {
+    "title": "Beginning Java and Flex",
+    "subtitle": "Migrating Java, Spring, Hibernate and Maven Developers to Adobe Flex",
+    "authors": [
+     "Filippo di Pisa"
+    ],
+    "publisher": "Apress",
+    "publishedDate": "2010-01-06",
+    "description": "Over the past few years, the now-open source Adobe Flex framework has been adopted by the Java community as the preferred framework for Java rich Internet applications (RIAs) using Flash for the presentation layer. Flex helps Java developers to build and maintain expressive web/desktop applications that deploy consistently on all major browsers, desktops, and operating systems. Beginning Java and Flex describes new, simpler, and faster ways to develop enterprise RIAs. This book is not only for Java or Flex developers, but also for all web developers who want to increase their productivity and the quality of their development. The aim of the book is to teach the new frontier of web development using open source, agile, lightweight Java frameworks with Flex. Java lightweight framework programming helps Flex developers create dynamic-looking enterprise applications. Flex and Java are becoming very popular for both business and interactive applications. What you’ll learn What Adobe Flex is and how to use it in your Java development of the presentation tier or rich clients How to use Spring, Hibernate, and/or Maven with Flex How to use Flex and Java to create rich Internet applications and/or clients How to create Flash-based/enabled business applications How to write more stable Java-based Flex applications and reusable code How to create some Flash-based game applications Who this book is for This book is for Java developers who want to get into Flex, Spring, Hibernate, and/or Maven, and for all Flex developers who want to create projects with the most frequently used Java frameworks. Also, this book could be interesting for most other web developers because Java/Flex, once learned, will increase their productivity and the quality of their development. Table of Contents Developing with Java and Flex Presenting the Sample Application Configuring Your Development Environment Inversion of Control Spring JDBC and Hibernate Spring Security Flex (The View Layer) Working with Data in Flex BlazeDS Using Flex, Spring, and Hibernate Together",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781430223856"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1430223855"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 500,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.3.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=BFlF1TQQ26gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=BFlF1TQQ26gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=BFlF1TQQ26gC&printsec=frontcover&dq=java+spring&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=BFlF1TQQ26gC&dq=java+spring&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Beginning_Java_and_Flex.html?hl=&id=BFlF1TQQ26gC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Beginning_Java_and_Flex-sample-epub.acsm?id=BFlF1TQQ26gC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Beginning_Java_and_Flex-sample-pdf.acsm?id=BFlF1TQQ26gC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=BFlF1TQQ26gC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book is not only for Java or Flex developers, but also for all web developers who want to increase their productivity and the quality of their development."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-WaCCwAAQBAJ",
+   "etag": "VpKKQb7ABxU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-WaCCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Spring MVC: Domine o principal framework web Java",
+    "authors": [
+     "Alberto Souza"
+    ],
+    "publisher": "Editora Casa do Código",
+    "publishedDate": "2015-04-10",
+    "description": "O Spring é o principal concorrente da especificação JavaEE. Com uma plataforma muito estável e com integração fina entre todas as suas extensões, fornece um ambiente muito propício para que o programador foque nas regras de negócio e esqueça dos problemas de infraestrutura. Durante o livro, será construída uma aplicação baseada na loja da Casa do Código e você terá a chance de utilizar diversas das funcionalidades e integrações providas pelo framework. Usaremos o Spring MVC como alicerce da nossa aplicação web e para implementar todas as funcionalidades, utilizaremos diversas integrações, como: Spring JPA, para facilitar o acesso ao banco de dados; Spring Security, para segurança da aplicação; diferenciação de ambientes com a parte de Profiles; respostas assíncronas para melhorarmos a escalabilidade; e ainda detalhes, como cache e suporte às requisições, seguindo o estilo REST. Tudo isso sem uma linha de XML, todas configurações serão feitas baseadas em anotações e código Java. Conheça todos os nossos livros em www.casadocodigo.com.br.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788555190209"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8555190207"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 260,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=-WaCCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=-WaCCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=-WaCCwAAQBAJ&printsec=frontcover&dq=java+spring&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=-WaCCwAAQBAJ&dq=java+spring&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Spring_MVC_Domine_o_principal_framework.html?hl=&id=-WaCCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 44.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=-WaCCwAAQBAJ&dq=java+spring&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.49E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.49E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Spring_MVC_Domine_o_principal_framework-sample-epub.acsm?id=-WaCCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Spring_MVC_Domine_o_principal_framework-sample-pdf.acsm?id=-WaCCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=-WaCCwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O Spring é o principal concorrente da especificação JavaEE."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oMVIzzKjJCcC",
+   "etag": "tMllxPKumcY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oMVIzzKjJCcC",
+   "volumeInfo": {
+    "title": "Professional Java Development with the Spring Framework",
+    "authors": [
+     "Rod Johnson",
+     "Jürgen Höller",
+     "Alef Arendsen",
+     "Thomas Risberg",
+     "Colin Sampaleanu"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2005-09-26",
+    "description": "The Spring Framework is a major open source application development framework that makes Java/J2EE(TM) development easier and more productive. This book shows you not only what Spring can do but why, explaining its functionality and motivation to help you use all parts of the framework to develop successful applications. You will be guided through all the Spring features and see how they form a coherent whole. In turn, this will help you understand the rationale for Spring's approach, when to use Spring, and how to follow best practices. All this is illustrated with a complete sample application. When you finish the book, you will be well equipped to use Spring effectively in everything from simple Web applications to complex enterprise applications. What you will learn from this book * The core Inversion of Control container and the concept of Dependency Injection * Spring's Aspect Oriented Programming (AOP) framework and why AOP is important in J2EE development * How to use Spring's programmatic and declarative transaction management services effectively * Ways to access data using Spring's JDBC functionality, iBATIS SQL Maps, Hibernate, and other O/R mapping frameworks * Spring services for accessing and implementing EJBs * Spring's remoting framework Who this book is for This book is for Java/J2EE architects and developers who want to gain a deeper knowledge of the Spring Framework and use it effectively. Wrox Professional guides are planned and written by working programmers to meet the real-world needs of programmers, developers, and IT professionals. Focused and relevant, they address the issues technology professionals face every day. They provide examples, practical solutions, and expert education in new technologies, all designed to help programmers do a better job.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780471748946"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0471748943"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 676,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=oMVIzzKjJCcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=oMVIzzKjJCcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=oMVIzzKjJCcC&printsec=frontcover&dq=java+spring&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=oMVIzzKjJCcC&dq=java+spring&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Professional_Java_Development_with_the_S.html?hl=&id=oMVIzzKjJCcC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 51.4,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 51.4,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=oMVIzzKjJCcC&dq=java+spring&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.14E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.14E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Professional_Java_Development_with_the_S-sample-pdf.acsm?id=oMVIzzKjJCcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=oMVIzzKjJCcC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "All this is illustrated with a complete sample application. When you finish the book, you will be well equipped to use Spring effectively in everything from simple Web applications to complex enterprise applications."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "V35pqiCnD4YC",
+   "etag": "9d0nOBSRvD8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/V35pqiCnD4YC",
+   "volumeInfo": {
+    "title": "Pro Java EE Spring Patterns",
+    "subtitle": "Best Practices and Design Strategies Implementing Java EE Patterns with the Spring Framework",
+    "authors": [
+     "Dhrubojyoti Kayal"
+    ],
+    "publisher": "Apress",
+    "publishedDate": "2008-09-24",
+    "description": "“The Java™ landscape is littered with libraries, tools, and specifications. What’s been lacking is the expertise to fuse them into solutions to real–world problems. These patterns are the intellectual mortar for J2EE software construction.” —John Vlissides, coauthor of Design Patterns: Elements of Reusable Object–Oriented Software Pro Java™ EE Spring Patterns focuses on enterprise patterns, best practices, design strategies, and proven solutions using key Java EE technologies including JavaServer Pages™, Servlets, Enterprise JavaBeans™, and Java Message Service APIs. This Java EE patterns resource, catalog, and guide, with its patterns and numerous strategies, documents and promotes best practices for these technologies, implemented in a very pragmatic way using the Spring Framework and its counters. This title Introduces Java EE application design and Spring framework fundamentals Describes a catalog of patterns used across the three tiers of a typical Java EE application Provides implementation details and analyses each pattern with benefits and concerns Describes the application of these patterns in a practical application scenario",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781430210108"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1430210109"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 344,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=V35pqiCnD4YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=V35pqiCnD4YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=V35pqiCnD4YC&pg=PA38&dq=java+spring&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=V35pqiCnD4YC&dq=java+spring&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Pro_Java_EE_Spring_Patterns.html?hl=&id=V35pqiCnD4YC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 122.55,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 122.55,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=V35pqiCnD4YC&dq=java+spring&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.2255E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.2255E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Pro_Java_EE_Spring_Patterns-sample-pdf.acsm?id=V35pqiCnD4YC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=V35pqiCnD4YC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Best Practices and Design Strategies Implementing \u003cb\u003eJava\u003c/b\u003e EE Patterns with the \u003cbr\u003e\n\u003cb\u003eSpring\u003c/b\u003e Framework Dhrubojyoti Kayal. It is important to note that \u003cb\u003eSpring\u003c/b\u003e MVC is \u003cbr\u003e\nnot the only way of connecting to the \u003cb\u003eSpring\u003c/b\u003e business tier. It is possible to expose\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "P2YdAgAAQBAJ",
+   "etag": "8miu5DfDGTU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/P2YdAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Web Project Spring Java Revolutions",
+    "subtitle": "J2EE Architecture with Spring",
+    "authors": [
+     "Sergio Rios"
+    ],
+    "publisher": "Sergio Rios",
+    "publishedDate": "2013-11-19",
+    "description": "A web application should always be properly structured with J2EE architecture , is why there is the need to combine various technologies and put them together in order to create a functional end product quality . This book will explain in detail the components of a J2EE architecture and the layers into which such as architecture and modules integrate seamlessly famous and widely used worldwide in design and implementation of enterprise web developments Spring 3 . We will see in detail the basics of the different modules that we used to develop our archetype with Spring 3 . Just as practical exercises that you can implement and that will be of great help to create professional web applications and very high quality , and we will use the best practices to develop products implementing scalable , adaptable and continuous improvement.",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 117,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=P2YdAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=P2YdAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=P2YdAgAAQBAJ&pg=PT4&dq=java+spring&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=P2YdAgAAQBAJ&dq=java+spring&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Web_Project_Spring_Java_Revolutions.html?hl=&id=P2YdAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 44.34,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 44.34,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=P2YdAgAAQBAJ&dq=java+spring&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.434E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.434E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Web_Project_Spring_Java_Revolutions-sample-pdf.acsm?id=P2YdAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=P2YdAgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In this layer found and we must learn to clearly identify components as a \u003cb\u003eJava\u003c/b\u003e \u003cbr\u003e\napplet , an application developed with \u003cb\u003eJava\u003c/b\u003e Swing or AWT , an application \u003cbr\u003e\ndeveloped for mobile devices , such as Android or iOS , an application made \u003cbr\u003e\ndirectly with&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iXO1yZwPG-YC",
+   "etag": "BUVCDLy+NEA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iXO1yZwPG-YC",
+   "volumeInfo": {
+    "title": "Just Spring",
+    "authors": [
+     "Madhusudhan Konda"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2011-07-22",
+    "description": "Get a concise introduction to Spring, the popular open source framework for building lightweight enterprise applications on the Java platform. This example-driven book for Java developers delves into the framework’s basic features, as well as complex concepts such as containers. You’ll learn how Spring makes Java Messaging Service easier to work with, and how its support for Hibernate helps you work with data persistence and retrieval. In this revised edition of Just Spring, you’ll get your hands deep into sample code, beginning with a problem that illustrates Spring’s core principle: dependency injection. In the chapters that follow, author Madhusudhan Konda walks you through features that underlie the solution. Dive into the new chapter on advanced concepts, such as bean scopes and property editors Learn dependency injection through a simple object coupling problem Tackle the framework’s core fundamentals, including beans and bean factories Discover how Spring makes the Java Messaging Service API easier to use Learn how Spring has revolutionized data access with Java DataBase Connectivity (JDBC) Use Spring with the Hibernate framework to manipulate data as objects",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781449315467"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1449315461"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.5.4.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=iXO1yZwPG-YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=iXO1yZwPG-YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=iXO1yZwPG-YC&printsec=frontcover&dq=java+spring&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=iXO1yZwPG-YC&dq=java+spring&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Just_Spring.html?hl=&id=iXO1yZwPG-YC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 40.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 40.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=iXO1yZwPG-YC&dq=java+spring&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.099E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.099E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=iXO1yZwPG-YC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In this revised edition of Just Spring, you’ll get your hands deep into sample code, beginning with a problem that illustrates Spring’s core principle: dependency injection."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cTrRAQAAQBAJ",
+   "etag": "yViyusweJW0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cTrRAQAAQBAJ",
+   "volumeInfo": {
+    "title": "Practical Spring LDAP",
+    "subtitle": "Enterprise Java LDAP Development Made Easy",
+    "authors": [
+     "Balaji Varanasi"
+    ],
+    "publisher": "Apress",
+    "publishedDate": "2013-11-26",
+    "description": "Practical Spring LDAP is your guide to developing Java-based enterprise applications using the Spring LDAP Framework. This book explains the purpose and fundamental concepts of LDAP before giving a comprehensive tour of the latest version, Spring LDAP 1.3.2. It provides a detailed treatment of LDAP controls and the new features of Spring LDAP 1.3.2 such as Object Directory Mapping and LDIF parsing. LDAP has become the de-facto standard for storing and accessing information in enterprises. Despite its widespread adoption, developers often struggle when it comes to using this technology effectively. The traditional JNDI approach has proven to be painful and has resulted in complex, less modular applications. The Spring LDAP Framework provides an ideal alternative.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781430263982"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1430263989"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 216,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.4.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=cTrRAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=cTrRAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=cTrRAQAAQBAJ&printsec=frontcover&dq=java+spring&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=cTrRAQAAQBAJ&dq=java+spring&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Practical_Spring_LDAP.html?hl=&id=cTrRAQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 115.54,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 115.54,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=cTrRAQAAQBAJ&dq=java+spring&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.1554E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.1554E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Practical_Spring_LDAP-sample-epub.acsm?id=cTrRAQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Practical_Spring_LDAP-sample-pdf.acsm?id=cTrRAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=cTrRAQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book explains the purpose and fundamental concepts of LDAP before giving a comprehensive tour of the latest version, Spring LDAP 1.3.2."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JohFDAAAQBAJ",
+   "etag": "kfngJwL1dac",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JohFDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Spring Persistence with Hibernate",
+    "authors": [
+     "Paul Fisher",
+     "Brian D. Murphy"
+    ],
+    "publisher": "Apress",
+    "publishedDate": "2016-05-31",
+    "description": "Learn how to use the core Hibernate APIs and tools as part of the Spring Framework. This book illustrates how these two frameworks can be best utilized. Other persistence solutions available in Spring are also shown including the Java Persistence API (JPA). Spring Persistence with Hibernate, Second Edition has been updated to cover Spring Framework version 4 and Hibernate version 5. After reading and using this book, you'll have the fundamentals to apply these persistence solutions into your own mission-critical enterprise Java applications that you build using Spring. Persistence is an important set of techniques and technologies for accessing and using data, and ensuring that data is mobile regardless of specific applications and contexts. In Java development, persistence is a key factor in enterprise, e-commerce, and other transaction-oriented applications. Today, the agile and open source Spring Framework is the leading out-of-the-box, open source solution for enterprise Java developers; in it, you can find a number of Java persistence solutions. What You'll Learn How to use Spring Persistence, including using persistence tools in Spring as well as choosing the best Java persistence frameworks outside of Spring How to work with Spring Framework features such as Inversion of Control (IoC), aspect-oriented programming (AOP), and more How to work with Spring JDBC, use declarative transactions with Spring, and reap the benefits of a lightweight persistence strategy How to work with Hibernate and integrate it into your Spring-based enterprise Java applications for transactions, data processing, and more How to integrate JPA for creating a well-layered persistence tier in your enterprise Java application Who This Book Is For This book is ideal for developers interested in learning more about persistence framework options on the Java platform, as well as fundamental Spring concepts. Because the book covers several persistence frameworks, it is suitable for anyone interested in learning more about Spring or any of the frameworks covered. Lastly, this book covers advanced topics related to persistence architecture and design patterns, and is ideal for beginning developers looking to learn more in these areas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781484202685"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1484202686"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 164,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.5.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=JohFDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=JohFDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=JohFDAAAQBAJ&printsec=frontcover&dq=java+spring&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=JohFDAAAQBAJ&dq=java+spring&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Spring_Persistence_with_Hibernate.html?hl=&id=JohFDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 94.46,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 94.46,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=JohFDAAAQBAJ&dq=java+spring&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9.446E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9.446E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Spring_Persistence_with_Hibernate-sample-epub.acsm?id=JohFDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Spring_Persistence_with_Hibernate-sample-pdf.acsm?id=JohFDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=JohFDAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Lastly, this book covers advanced topics related to persistence architecture and design patterns, and is ideal for beginning developers looking to learn more in these areas."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sr-SMAEACAAJ",
+   "etag": "/HwT/g5Pv7E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sr-SMAEACAAJ",
+   "volumeInfo": {
+    "title": "Developing Enterprise Java Applications With Spring Frameworks",
+    "subtitle": "An End-to-end Approach",
+    "authors": [
+     "Henry H. Liu"
+    ],
+    "publisher": "Createspace Independent Pub",
+    "publishedDate": "2012-07-01",
+    "description": "This book adopts a unique approach to helping enterprise Java Web application developers learn the latest Spring Frameworks fast. Rather than filled with disjointed, piecemeal samples to show Spring features one at a time, it is designed to put your total Spring learning experience on a functioning, end-to-end, integrated sample Secure Online Banking Application (SOBA), which runs on Windows 7, Linux and Mac X. You will gain hands-on experience with how Spring integrates with JDBC, Hibernate and one of the three database platforms of your choice (MySQL, Microsoft SQL Server, or Oracle).You can build SOBA with Apache Ant or Maven and run it on Tomcat 6 or Tomcat 7. This book also features Spring, Hibernate and Maven 3 with another standalone sample application, which is simpler than SOBA.Using SOBA as an experimental learning platform, this book helps you learn the following latest Spring technologies:* Spring's Core Framework* Spring's MVC Web Framework* Spring's Data Access Framework (JDBC and Hibernate)* Spring's RESTful Web Services Framework* Spring's Security Framework* Spring's Transaction Management Framework* Spring's Validation Framework* Spring's Aspect Oriented Programming (AOP) Framework* Building Spring/Hibernate based enterprise web applications with Maven 3At the end of your learning experience with this book, you will gain truly applicable skills and will be able to start contributing to the success of your Spring-based enterprise application project immediately.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1478289317"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781478289319"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 422,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=sr-SMAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=sr-SMAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=sr-SMAEACAAJ&dq=java+spring&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=sr-SMAEACAAJ&dq=java+spring&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Developing_Enterprise_Java_Applications.html?hl=&id=sr-SMAEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=sr-SMAEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book adopts a unique approach to helping enterprise Java Web application developers learn the latest Spring Frameworks fast."
+   }
+  }
+ ]
+}

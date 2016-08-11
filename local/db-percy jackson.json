@@ -1,0 +1,806 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 428,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "mZbeJ2dkKX0C",
+   "etag": "jyH5InZ5Sb8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/mZbeJ2dkKX0C",
+   "volumeInfo": {
+    "title": "Box Percy Jackson e os Olimpianos",
+    "authors": [
+     "Rick Riordan"
+    ],
+    "publisher": "Editora Intrinseca",
+    "publishedDate": "2010-11-01",
+    "description": "O Box reúne os cinco livros da série.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788580572919"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8580572916"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 1207,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=mZbeJ2dkKX0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=mZbeJ2dkKX0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=mZbeJ2dkKX0C&printsec=frontcover&dq=percy+jackson&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=mZbeJ2dkKX0C&dq=percy+jackson&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Box_Percy_Jackson_e_os_Olimpianos.html?hl=&id=mZbeJ2dkKX0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 124.5,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 112.05,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=mZbeJ2dkKX0C&dq=percy+jackson&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.245E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.1205E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Box_Percy_Jackson_e_os_Olimpianos-sample-epub.acsm?id=mZbeJ2dkKX0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Box_Percy_Jackson_e_os_Olimpianos-sample-pdf.acsm?id=mZbeJ2dkKX0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=mZbeJ2dkKX0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O Box reúne os cinco livros da série."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QDnbbA9SukgC",
+   "etag": "gzTaYAbK9hY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QDnbbA9SukgC",
+   "volumeInfo": {
+    "title": "Percy Jackson e a Batalha do Labirinto",
+    "authors": [
+     "Rick Riordan"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2012-04-20",
+    "description": "Percy está prestes a começar o ano letivo numa escola nova. Ele já não esperava que essa experiência fosse muito agradável, mas quando teve de enfrentar um esquadrão de líderes de claque tão esfomeadas quanto demoníacas, imediatamente se apercebeu que tudo podia ficar muito pior. Nesse quarto volume da série Percy Jackson, o tempo está a esgotar-se e a batalha entre os Deuses do Olimpo e Cronos, o Senhor dos Titãs, está cada vez mais próxima. Mesmo o acampamento dos meio-sangues, o porto seguro dos heróis, torna-se vulnerável à medida que os exércitos de Cronos se preparam para atacar as suas fronteiras, até então impenetráveis. Para detê-los, Percy e seus amigos semideuses partirão numa jornada pelo Labirinto - um interminável universo subterrâneo que, a cada curva, revela as mais temíveis surpresas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789724620862"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9724620867"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.6.5.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=QDnbbA9SukgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=QDnbbA9SukgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=QDnbbA9SukgC&printsec=frontcover&dq=percy+jackson&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=QDnbbA9SukgC&dq=percy+jackson&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Percy_Jackson_e_a_Batalha_do_Labirinto.html?hl=&id=QDnbbA9SukgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Percy_Jackson_e_a_Batalha_do_Labirinto-sample-epub.acsm?id=QDnbbA9SukgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Percy_Jackson_e_a_Batalha_do_Labirinto-sample-pdf.acsm?id=QDnbbA9SukgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=QDnbbA9SukgC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Percy está prestes a começar o ano letivo numa escola nova."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FFTJDYx_ZiEC",
+   "etag": "bqlsB/A9Y9s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FFTJDYx_ZiEC",
+   "volumeInfo": {
+    "title": "Lightning Thief, The (Percy Jackson and the Olympians, Book 1)",
+    "authors": [
+     "Rick Riordan"
+    ],
+    "publisher": "Disney Electronic Content",
+    "publishedDate": "2009-05-02",
+    "description": "Percy Jackson is a good kid, but he can't seem to focus on his schoolwork or control his temper. And lately, being away at boarding school is only getting worse-Percy could have sworn his pre-algebra teacher turned into a monster and tried to kill him.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781423131892"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1423131894"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 187,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.10.9.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=FFTJDYx_ZiEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=FFTJDYx_ZiEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=FFTJDYx_ZiEC&dq=percy+jackson&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=FFTJDYx_ZiEC&dq=percy+jackson&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Lightning_Thief_The_Percy_Jackson_and_th.html?hl=&id=FFTJDYx_ZiEC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=FFTJDYx_ZiEC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Percy Jackson is a good kid, but he can&#39;t seem to focus on his schoolwork or control his temper."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "cjUfFlKGXGMC",
+   "etag": "Bv3rsgd3QaQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/cjUfFlKGXGMC",
+   "volumeInfo": {
+    "title": "Percy Jackson's",
+    "authors": [
+     "Ken Cooke"
+    ],
+    "publisher": "Troubador Publishing Ltd",
+    "publishedDate": "2007-01-01",
+    "description": "The opening of the Percy Jackson Grammar School in 1939 coincided with the onset of the Second World War. This is a record of three decades of school life, from the opening of a state grammar school in 1939 until its conversion to a comprehensive in 1968.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1905886780"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781905886784"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 113,
+    "printType": "BOOK",
+    "categories": [
+     "Great Britain"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=cjUfFlKGXGMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=cjUfFlKGXGMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=cjUfFlKGXGMC&pg=PR18&dq=percy+jackson&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=cjUfFlKGXGMC&dq=percy+jackson&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Percy_Jackson_s.html?hl=&id=cjUfFlKGXGMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Percy_Jackson_s-sample-epub.acsm?id=cjUfFlKGXGMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Percy_Jackson_s-sample-pdf.acsm?id=cjUfFlKGXGMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=cjUfFlKGXGMC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... period from the school&#39;s opening in October 1939 until it closed as a state \u003cbr\u003e\ngrammar school in July 1968, when it became a comprehensive school. Sir \u003cb\u003ePercy\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eJackson\u003c/b\u003e J P, LLD 1869-1941 Percy Richard Jackson was educated in \u003cbr\u003e\nHuddersfield."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HQv1AgAAQBAJ",
+   "etag": "G9HIR97fSe4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HQv1AgAAQBAJ",
+   "volumeInfo": {
+    "title": "Demigods and Monsters",
+    "subtitle": "Your Favorite Authors on Rick Riordan's Percy Jackson and the Olympians Series",
+    "authors": [
+     "Rick Riordan"
+    ],
+    "publisher": "BenBella Books",
+    "publishedDate": "2013",
+    "description": "Presents a series of essays providing analysis on Rick Riordan's Percy Jackson series, including works by such authors as Jenny Han, Cameron Dokey, Paul Collins, and Ellen Steiber.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781937856366"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1937856364"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 242,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=HQv1AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=HQv1AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=HQv1AgAAQBAJ&printsec=frontcover&dq=percy+jackson&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=HQv1AgAAQBAJ&dq=percy+jackson&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Demigods_and_Monsters.html?hl=&id=HQv1AgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=HQv1AgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Presents a series of essays providing analysis on Rick Riordan&#39;s Percy Jackson series, including works by such authors as Jenny Han, Cameron Dokey, Paul Collins, and Ellen Steiber."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GNsT3vhYi2MC",
+   "etag": "LBG8NZco9G0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GNsT3vhYi2MC",
+   "volumeInfo": {
+    "title": "Percy Jackson E Os Ladroes Do Olimpo",
+    "authors": [
+     "Rick Riordan"
+    ],
+    "publisher": "Leya",
+    "publishedDate": "2010",
+    "description": "Twelve-year-old Percy Jackson learns he is a demigod, the son of a mortal woman and Poseidon, god of the sea. His mother sends him to a summer camp for demigods where he and his new friends set out on a quest to prevent a war between the gods.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789724619378"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9724619370"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 326,
+    "printType": "BOOK",
+    "categories": [
+     "Camps"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=GNsT3vhYi2MC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=GNsT3vhYi2MC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=GNsT3vhYi2MC&dq=percy+jackson&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=GNsT3vhYi2MC&dq=percy+jackson&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Percy_Jackson_E_Os_Ladroes_Do_Olimpo.html?hl=&id=GNsT3vhYi2MC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=GNsT3vhYi2MC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Twelve-year-old Percy Jackson learns he is a demigod, the son of a mortal woman and Poseidon, god of the sea."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oXZUAwAAQBAJ",
+   "etag": "dMdF+LkiMrM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oXZUAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Percy Jackson and the Greek Gods",
+    "authors": [
+     "Rick Riordan"
+    ],
+    "publisher": "Penguin UK",
+    "publishedDate": "2014-08-07",
+    "description": "\"If you like horror shows, bloodbaths, lying, stealing, backstabbing and cannibalism, then read on...\" Who could tell the true stories of the gods and goddesses of Olympus better than modern-day demigod Percy Jackson? In this action-packed tour of Greek mythology, Percy gives his hilarious personal views on the feuds, fights and love affairs of the Olympians. Want to know how Zeus came to be top god? How many times Kronos ate one of his own kids? How Athena literally burst out of another god's head? It's all here in black and white...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780141356358"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0141356359"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 432,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.8.11.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=oXZUAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=oXZUAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=oXZUAwAAQBAJ&pg=PT4&dq=percy+jackson&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=oXZUAwAAQBAJ&dq=percy+jackson&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Percy_Jackson_and_the_Greek_Gods.html?hl=&id=oXZUAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.22,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 34.22,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=oXZUAwAAQBAJ&dq=percy+jackson&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.422E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.422E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Percy_Jackson_and_the_Greek_Gods-sample-epub.acsm?id=oXZUAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=oXZUAwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AWMxzoncFBgC",
+   "etag": "7abzFucl6HM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AWMxzoncFBgC",
+   "volumeInfo": {
+    "title": "Percy Jackson and the Sea of Monsters",
+    "authors": [
+     "Rick Riordan"
+    ],
+    "publisher": "Penguin UK",
+    "publishedDate": "2008-05-01",
+    "description": "Percy Jackson, the young demi-god, is back for his second exciting adventure in the bestselling series by Rick Riordan. You can't tell by looking at me that my dad is Poseidon, God of the Sea. It's not easy being a half-blood these days. You mortals can't even see the monsters we have to fight all the time. So when a game of dodgeball turned into a death match against an ugly gang of cannibal giants, I couldn't exactly ask my gym teacher for help. And that was just for starters. This is the one where Camp Half Blood is under attack, and unless I get my hands on the Golden Fleece, the whole camp will be invaded by monsters. Big ones. Can Percy survive the treacherous Sea of Monsters and restore order to Half-Blood Hill?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780141926902"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0141926902"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 14,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.14.11.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=AWMxzoncFBgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=AWMxzoncFBgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=AWMxzoncFBgC&printsec=frontcover&dq=percy+jackson&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=AWMxzoncFBgC&dq=percy+jackson&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Percy_Jackson_and_the_Sea_of_Monsters.html?hl=&id=AWMxzoncFBgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.94,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 29.94,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=AWMxzoncFBgC&dq=percy+jackson&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.994E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.994E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Percy_Jackson_and_the_Sea_of_Monsters-sample-epub.acsm?id=AWMxzoncFBgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=AWMxzoncFBgC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "And that was just for starters. This is the one where Camp Half Blood is under attack, and unless I get my hands on the Golden Fleece, the whole camp will be invaded by monsters. Big ones."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ku9TsH3M1-YC",
+   "etag": "vJJMQkru+u0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ku9TsH3M1-YC",
+   "volumeInfo": {
+    "title": "Percy Jackson and the Lightning Thief",
+    "authors": [
+     "Rick Riordan"
+    ],
+    "publisher": "Penguin UK",
+    "publishedDate": "2008-05-01",
+    "description": "Percy Jackson and the Lightning Thief is the first bestselling book in Rick Riordan's phenomenally successful Percy Jackson series - now with a new cover look. Half boy. Half God. ALL Hero. Look, I didn't want to be a half-blood. I never asked to be the son of a Greek God. I was just a normal kid, going to school, playing basketball, skateboarding. The usual. Until I accidentally vaporized my maths teacher. Now I spend my time battling monsters and generally trying to stay alive. This is the one where Zeus, God of the Sky, thinks I've stolen his lightning bolt - and making Zeus angry is a very bad idea. RICK RIORDAN IS THE MYTHMASTER The Greek Gods are alive and kicking - go to www.rickriordanmythmaster.co.uk and see for yourself 'It's Buffy meets Artemis Fowl. Thumbs up' Sunday Times Books by Rick Riordan: The Percy Jackson series: Percy Jackson and the Lightning Thief Percy Jackson and the Sea of Monsters Percy Jackson and the Titan's Curse Percy Jackson and the Battle of the Labyrinth Percy Jackson and the Last Olympian Percy Jackson: The Demigod Files The Heroes of Olympus series: The Lost Hero The Son Of Neptune The Mark of Athena The House of Hades The Heroes of Olympus: The Demigod Files The Kane Chronicles series: The Red Pyramid The Throne of Fire The Serpent's Shadow",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780141924403"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0141924403"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 384,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 23,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "3.23.18.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=ku9TsH3M1-YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=ku9TsH3M1-YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=ku9TsH3M1-YC&pg=PT264&dq=percy+jackson&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ku9TsH3M1-YC&dq=percy+jackson&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Percy_Jackson_and_the_Lightning_Thief.html?hl=&id=ku9TsH3M1-YC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 29.94,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 27.58,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=ku9TsH3M1-YC&dq=percy+jackson&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.994E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.758E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Percy_Jackson_and_the_Lightning_Thief-sample-epub.acsm?id=ku9TsH3M1-YC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=ku9TsH3M1-YC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... was now sitting on my thigh. &#39;You should have died in Tartarus, \u003cb\u003ePercy\u003c/b\u003e. But don&#39;t \u003cbr\u003e\nworry, I&#39;ll leave you with my little friend to set things right.&#39; &#39;Thalia gave her life to \u003cbr\u003e\nsave you,&#39; I said, gritting."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gLPvoLN0meUC",
+   "etag": "Vt4mrXZTKQc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gLPvoLN0meUC",
+   "volumeInfo": {
+    "title": "Sea of Monsters, The (Percy Jackson and the Olympians, Book 2)",
+    "authors": [
+     "Rick Riordan"
+    ],
+    "publisher": "Disney Electronic Content",
+    "publishedDate": "2009-05-02",
+    "description": "After a summer spent trying to prevent a catastrophic war among the Greek gods, Percy Jackson finds his seventh-grade school year unnervingly quiet. His biggest problem is dealing with his new friend, Tyson—a six-foot-three, mentally challenged homeless kid who follows Percy everywhere, making it hard for Percy to have any \"normal\" friends. But things don't stay quiet for long...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781423131960"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1423131967"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Fiction"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 95,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.9.8.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=gLPvoLN0meUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=gLPvoLN0meUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=gLPvoLN0meUC&dq=percy+jackson&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=gLPvoLN0meUC&dq=percy+jackson&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Sea_of_Monsters_The_Percy_Jackson_and_th.html?hl=&id=gLPvoLN0meUC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=gLPvoLN0meUC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Demi-god Percy Jackson and his friends must journey into the Sea of Monsters to save their camp. But first Percy will discover a secret that makes him wonder whether being claimed as Poseidon&#39;s son is an honor or a cruel joke."
+   }
+  }
+ ]
+}

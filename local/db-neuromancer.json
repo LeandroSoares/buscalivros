@@ -1,0 +1,686 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 417,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "IDFfMPW32hQC",
+   "etag": "9aal5XRvig8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/IDFfMPW32hQC",
+   "volumeInfo": {
+    "title": "Neuromancer",
+    "authors": [
+     "William Gibson"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2000",
+    "description": "Case, a burned-out computer whiz, is asked to steal a security code that is locked in the most heavily guarded databank in the solar system, in a new edition of the influential Hugo, Nebula, and Philip K. Dick Award winner. Reprint.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0441007465"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780441007462"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 276,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 216,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=IDFfMPW32hQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=IDFfMPW32hQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=IDFfMPW32hQC&dq=neuromancer&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=IDFfMPW32hQC&dq=neuromancer&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Neuromancer.html?hl=&id=IDFfMPW32hQC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=IDFfMPW32hQC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Case, a burned-out computer whiz, is asked to steal a security code that is locked in the most heavily guarded databank in the solar system, in a new edition of the influential Hugo, Nebula, and Philip K. Dick Award winner. Reprint."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OQp4ygAACAAJ",
+   "etag": "heu1Sa3KyhY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OQp4ygAACAAJ",
+   "volumeInfo": {
+    "title": "Neuromancer",
+    "authors": [
+     "William Gibson",
+     "Maya Sangawa",
+     "Silvio Alexandre"
+    ],
+    "publishedDate": "1991",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "OCLC:271281785"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 366,
+    "printType": "BOOK",
+    "categories": [
+     "Business intelligence"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=OQp4ygAACAAJ&dq=neuromancer&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=OQp4ygAACAAJ&dq=neuromancer&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Neuromancer.html?hl=&id=OQp4ygAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=OQp4ygAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "79aU7KScPwgC",
+   "etag": "/3kj+tmnBLc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/79aU7KScPwgC",
+   "volumeInfo": {
+    "title": "William Gibson's 'Neuromancer' and the Relation Between Mind and Body",
+    "authors": [
+     "Franz Wegener"
+    ],
+    "publisher": "GRIN Verlag",
+    "publishedDate": "2008-01",
+    "description": "Seminar paper from the year 2002 in the subject English Language and Literature Studies - Literature, grade: 1 (very good), Otto-von-Guericke-University Magdeburg (Institut fur fremdsprachliche Philologien), course: Cyborgs (WS 2001/2002), 4 entries in the bibliography, language: English, comment: This paper is about William Gibson's 'Neuromancer'. Neuromancer was the book that initiated the cyberpunk debate, which was very influential in culture studies. The paper explores Gibson's position towards the mind-body-problem, i.e. the relation between mind and body., abstract: This paper is about William Gibson's famous novel \"Neuromancer.\" Neuromancer was the book that initiated the cyberpunk debate, a debate that was very influential in culture studies and modern literature. The cyberpunk debate created a more suspicious image of new technologies and their effect on the role of the human being as well as the social life and the society. Gibson's position towards the mind-body-problem, i.e. the relation between mind and body, is examined. An overview is given of possible technologies he describes and how they trigger the breakdown between man and machine as well as between individuals. The paper also sketches the effects of those technologies on social interaction, moral values and the structure of the society.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783638886376"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3638886379"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 36,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=79aU7KScPwgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=79aU7KScPwgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=79aU7KScPwgC&printsec=frontcover&dq=neuromancer&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=79aU7KScPwgC&dq=neuromancer&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/William_Gibson_s_Neuromancer_and_the_Rel.html?hl=&id=79aU7KScPwgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=79aU7KScPwgC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Neuromancer was the book that initiated the cyberpunk debate, which was very influential in culture studies."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "FWUODAAAQBAJ",
+   "etag": "e4Hf9yawMzk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FWUODAAAQBAJ",
+   "volumeInfo": {
+    "title": "A Study Guide for William Gibson's \"Neuromancer\"",
+    "authors": [
+     "Gale, Cengage Learning"
+    ],
+    "publisher": "Gale, Cengage Learning",
+    "publishedDate": "2015-03-13",
+    "description": "A Study Guide for William Gibson's \"Neuromancer\", excerpted from Gale's acclaimed Novels for Students series. This concise study guide includes plot summary; character analysis; author biography; study questions; historical context; suggestions for further reading; and much more. For any literature project, trust Novels for Students for all of your research needs.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781410321268"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1410321266"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 15,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=FWUODAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=FWUODAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=FWUODAAAQBAJ&pg=PT24&dq=neuromancer&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=FWUODAAAQBAJ&dq=neuromancer&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/A_Study_Guide_for_William_Gibson_s_Neuro.html?hl=&id=FWUODAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.86,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 12.86,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=FWUODAAAQBAJ&dq=neuromancer&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.286E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.286E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Study_Guide_for_William_Gibson_s_Neuro-sample-epub.acsm?id=FWUODAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/A_Study_Guide_for_William_Gibson_s_Neuro-sample-pdf.acsm?id=FWUODAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=FWUODAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The firsttime reader of Gibson&#39;s \u003cb\u003eNeuromancer\u003c/b\u003e will immediately be struck with \u003cbr\u003e\nvocabulary that is unfamiliar. This vocabulary places the setting distinctly in the \u003cbr\u003e\nfuture and contributes to the strangeness of the text. In addition, technological \u003cbr\u003e\nwords&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VmmPCQAAQBAJ",
+   "etag": "z0LbrX4jwnM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VmmPCQAAQBAJ",
+   "volumeInfo": {
+    "title": "Neuromancer",
+    "authors": [
+     "William Gibson"
+    ],
+    "publisher": " ",
+    "publishedDate": "2000-07-01",
+    "description": "EDITORIAL REVIEW: One of the most important and influential novels of our time.*Neuromancer* is the multiple award-winning novel that launched the astonishing career of William Gibson. The first fully-realized glimpse of humankind's digital future, it is a shocking vision that has challenged our assumptions about our technology and ourselves, reinvented the way we speak and think, and forever altered the landscape of our imaginations.Now, for the first time, Ace Books is proud to present this groundbreaking literary achievement in a new trade paperback edition. Winner of science fiction's 'Triple Crown'--the Hugo, Nebula, and Philip K. Dick awards. Includes the special afterword Gibson wrote for the 10th anniversary hardcover edition published by Ace\"A mind-bender of a read.\" --*The Village Voice*\"Freshly imagined, compellingly detailed, and chilling in its implications.\" --*New York Times*\"Kaleidoscopic, picaresque, flashy and decadent...an amazing virtuoso performance.\" --*Washington Post*\"It made me want to live in its world.\" --*San Francisco Chronicle*\"A revolutionary novel.\" --*Publishers Weekly*\"Gibson is tapped straight into our collective cultural mainline and shows no sign of stopping.\" --*Spin*\"Gibson has revitalized science fiction as no other single force in a generation.\" --*Rolling Stone*\"Epic in scale.\" --*Wall Street Journal*\"The quintessence of cyberpunk.\" --*Washington Post Book World*",
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=VmmPCQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=VmmPCQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=VmmPCQAAQBAJ&dq=neuromancer&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=VmmPCQAAQBAJ&dq=neuromancer&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Neuromancer.html?hl=&id=VmmPCQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=VmmPCQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "k8sWCAAAQBAJ",
+   "etag": "hJ1NdS8/EPk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/k8sWCAAAQBAJ",
+   "volumeInfo": {
+    "title": "The Complete Sprawl Trilogy: Neuromancer, Count Zero, Mona Lisa Overdrive",
+    "authors": [
+     "William Gibson"
+    ],
+    "publisher": "HarperCollins UK",
+    "publishedDate": "2015-10-08",
+    "description": "William Gibson’s classic Sprawl trilogy includes NEUROMANCER which stands alongside BRAVE NEW WORLD and 1984 as one of the twentieth century’s most potent novels of the future.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780008121808"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "000812180X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 976,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.3.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=k8sWCAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=k8sWCAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=k8sWCAAAQBAJ&dq=neuromancer&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=k8sWCAAAQBAJ&dq=neuromancer&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/The_Complete_Sprawl_Trilogy_Neuromancer.html?hl=&id=k8sWCAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=k8sWCAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "William Gibson’s classic Sprawl trilogy includes NEUROMANCER which stands alongside BRAVE NEW WORLD and 1984 as one of the twentieth century’s most potent novels of the future."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "S1OqngEACAAJ",
+   "etag": "dcOW1QYmBBE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/S1OqngEACAAJ",
+   "volumeInfo": {
+    "title": "Virtual Reality in Fiction",
+    "subtitle": "Digimon, Neuromancer, Serial Experiments Lain, Snow Crash, System Shock, Rez, Holodeck, Metal Gear Solid 2",
+    "authors": [
+     "Source Wikipedia"
+    ],
+    "publisher": "University-Press.org",
+    "publishedDate": "2013-09",
+    "description": "Please note that the content of this book primarily consists of articles available from Wikipedia or other free sources online. Pages: 122. Chapters: Digimon, Neuromancer, Serial Experiments Lain, Snow Crash, System Shock, Rez, Holodeck, Metal Gear Solid 2: Sons of Liberty, Summer Wars, ReBoot, Caprica, Hyperion, Life on Mars, Kingdom Hearts coded, The Deadly Assassin, Denn Coil, Permutation City, Dystopia, Beneath a Steel Sky, Star Ocean: Till the End of Time, Ghost in the Shell 2: Innocence, Code Lyoko, Kamen Rider Ryuki, VR Troopers, Diaspora, Enter the Matrix, Superhuman Samurai Syber-Squad, Harsh Realm, Otherland, Planet B, Danger Room, Simulated reality in fiction, The Matrix: Path of Neo, Wild Palms, Doom 2099, Kill Switch, Rainbows End, Virtuality, Net Ghost PiPoPa, Metaverse, VR.5, First Person Shooter, Ghost Rider 2099, A. B. and C., Netrunner, Schizogeny, The Fanimatrix, Kamen Rider Ryuki: Episode Final, Darwinia, The Dreamland Chronicles, Video Warrior Laserion, The Cookie Monster, The Sentence, Simulacron-3, Morpheus, Bits of Love, BloodNet, Commander Blood, They, Hard Time, Dreams for Sale, Taylor algorithms, TAP. Excerpt: MGS2: SubstanceXbox PlayStation 2 Microsoft Windows Metal Gear Solid 2: Sons of Liberty Metaru Gia Soriddo 2 Sanzu Obu Ribati, commonly abbreviated as MGS2) is a stealth action video game directed by Hideo Kojima, developed by Konami Computer Entertainment Japan and published by Konami for the PlayStation 2 in 2001. It is the fourth Metal Gear game produced and directed by Kojima and the direct sequel to Metal Gear Solid. Its release was followed by an expanded edition, Metal Gear Solid 2: Substance for PlayStation 2, Xbox and Windows. Metal Gear Solid 3: Snake Eater, a prequel to the entire Metal Gear series, followed in 2004. In 2008, a direct sequel, Metal Gear Solid 4: Guns of the Patriots was released. The story revolves around a massive offshore clean-up facility that has been seized by a group of terrorists that call...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1230588361"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781230588360"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 124,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=S1OqngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=S1OqngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=S1OqngEACAAJ&dq=neuromancer&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=S1OqngEACAAJ&dq=neuromancer&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Virtual_Reality_in_Fiction.html?hl=&id=S1OqngEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=S1OqngEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Please note that the content of this book primarily consists of articles available from Wikipedia or other free sources online."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BVysngEACAAJ",
+   "etag": "J010LeHRkBU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BVysngEACAAJ",
+   "volumeInfo": {
+    "title": "Cyberpunk Novels",
+    "subtitle": "Neuromancer, the Diamond Age, the Shockwave Rider, Snow Crash, Labyrinth of Reflections, False Mirrors, Islands in The",
+    "authors": [
+     "Source Wikipedia"
+    ],
+    "publisher": "University-Press.org",
+    "publishedDate": "2013-09",
+    "description": "Please note that the content of this book primarily consists of articles available from Wikipedia or other free sources online. Commentary (novels not included). Pages: 42. Chapters: Neuromancer, The Diamond Age, The Shockwave Rider, Snow Crash, Labyrinth of Reflections, False Mirrors, Islands in the Net, Count Zero, All Tomorrow's Parties, He, She and It, Ware Tetralogy, Babylon Babies, When Gravity Fails, Virtual Light, Idoru, Dr. Adder, Mona Lisa Overdrive, Wetware, Manna, Software, Transparent Stained-Glass Windows, The Exile Kiss, Signal to Noise, A Fire in the Sun, Tea from an Empty Cup, Dreaming Metal, Breakpoint, Ambient, Polymorph, Mindplayers, Night Sky Mine, Eclipse Trilogy, Voice of the Whirlwind, Trouble and Her Friends, A Signal Shattered, The Enclaves. Excerpt: The Diamond Age: Or, A Young Lady's Illustrated Primer is a postcyberpunk novel by Neal Stephenson. It is a bildungsroman focused on a young girl named Nell, and set in a world in which nanotechnology affects all aspects of life. Some main motifs include: education, social class, ethnicity, and the nature of artificial intelligence. The Diamond Age was first published in 1995 by Bantam Books, as a Bantam Spectra hardcover edition. In 1996, it won both the Hugo and Locus Awards, and was shortlisted for the Nebula and other awards, placing it among the most-honored works of science fiction in recent history. A six-hour mini series adapted from the novel is being developed for the Syfy Channel. The protagonist in the story is Nell, a thete (or person without a tribe; equivalent to the lowest working class) living in the Leased Territories, a lowland slum belt on the artificial, diamondoid island of New Chusan, located offshore from the mouth of the Yangtze River, northwest of Shanghai. At age 4, Nell receives a stolen copy of an interactive book, Young Lady's Illustrated Primer: a Propaedeutic Enchiridion in which is told the tale of Princess Nell and her various friends, kin, associates, .",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1230550488"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781230550480"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 44,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=BVysngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=BVysngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=BVysngEACAAJ&dq=neuromancer&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=BVysngEACAAJ&dq=neuromancer&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Cyberpunk_Novels.html?hl=&id=BVysngEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=BVysngEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Please note that the content of this book primarily consists of articles available from Wikipedia or other free sources online."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-vbTkMuU9NkC",
+   "etag": "yIJYZ60bhPU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-vbTkMuU9NkC",
+   "volumeInfo": {
+    "title": "The Urban Condition",
+    "subtitle": "Space, Community, and Self in the Contemporary Metropolis",
+    "publisher": "010 Publishers",
+    "publishedDate": "1999",
+    "description": "What does the Western city at the end of the twentieth century look like? How did the modern metropolis of congestion and density turn into a posturban or even postsuburban cityscape? What are edge cities and technoburbs? How has the social composition of cities changed in the postwar era? What do gated communities tell us about social fragmentation? Is public space in the contemporary city being privatized and militarized? How can the urban self still be defined? What role does consumer aestheticism have to play in this? These and many more questions are addressed by this uniquely conceived multidisciplinary study. The Urban Condition seeks to interfere in current debates over the future and interpretation of our urban landscapes by reuniting studies of the city as a physical and material phenomenon and as a cultural and mental (arte)fact. The Ghent Urban Studies Team responsible for the writing and editing of this volume is directed by Kristiaan Versluys and Dirk De Meyer at the University of Ghent, Belgium. It is an interdisciplinary research team of young academics that further consists of Kristiaan Borret, Bart Eeckhout, Steven Jacobs, and Bart Keunen. The collective expertise of GUST ranges from architectural theory, urban planning, and art history to philosophy, literary criticism and cultural theory.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9064503559"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789064503559"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 447,
+    "printType": "BOOK",
+    "categories": [
+     "Cities and towns"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=-vbTkMuU9NkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=-vbTkMuU9NkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=-vbTkMuU9NkC&pg=PA407&dq=neuromancer&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=-vbTkMuU9NkC&dq=neuromancer&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/The_Urban_Condition.html?hl=&id=-vbTkMuU9NkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=-vbTkMuU9NkC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Keywords: • Literary Criticism • Architecture • Virtualization William Gibson&#39;s \u003cbr\u003e\n\u003cb\u003eNeuromancer\u003c/b\u003e, the founding classic of cyberpunk published in 1984, tells the story \u003cbr\u003e\nof how an artificial intelligence called Wintermute prepares and executes a &quot;run&quot; \u003cbr\u003e\non&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PTMzngEACAAJ",
+   "etag": "aMuk9zOMb/g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PTMzngEACAAJ",
+   "volumeInfo": {
+    "title": "Brain-Computer Interfacing in Fiction",
+    "subtitle": "The Matrix, Neuromancer, Ghost in the Shell, Until the End of the World, Joe 90, Brain Implant, Strange Days, E",
+    "authors": [
+     "Source Wikipedia"
+    ],
+    "publisher": "University-Press.org",
+    "publishedDate": "2013-09",
+    "description": "Please note that the content of this book primarily consists of articles available from Wikipedia or other free sources online. Pages: 30. Chapters: The Matrix, Neuromancer, Ghost in the Shell, Until the End of the World, Joe 90, Brain implant, Strange Days, EXistenZ, Brainstorm, Orgasmatron, Forever Peace, Call Me Joe, They're Made Out of Meat, Black Hole. Excerpt: Joe 90 is a late-1960s British science-fiction television series concerning the adventures and exploits of nine-year-old Joe McClaine, who starts a double life as a schoolboy turned spy when his scientist father invents a pioneering machine capable of duplicating and then transferring expert knowledge and experience to another human brain. Equipped with the skills of the foremost academic and military minds, Joe enlists in the World Intelligence Network (WIN), becoming its \"Most Special Agent,\" pursuing the ideal of world peace and saving human life. Created by Gerry and Sylvia Anderson and filmed at Century 21 Productions, one 30-episode series followed the earlier Thunderbirds and Captain Scarlet and the Mysterons. First screened in the UK between September 1968 and April 1969 on the ATV network, Joe 90 is the sixth and last of the Anderson productions to have been made exclusively using the form of marionette puppetry dubbed \"Supermarionation.\" The final puppet series, The Secret Service, also used this process, but in combination with extensive live-action footage. As in the case of its predecessor, Captain Scarlet, the puppets of Joe 90 are of a more naturally-proportioned design as opposed to the more caricatured appearance of the characters from Thunderbirds. Although not as successful as Century 21's previous puppet efforts, since its inception, Joe 90 has been praised, besides other aspects, for the characterisation of its smaller Supermarionation cast and the accomplishment of its model sets and special effects. Commentators read into Joe 90's spy-fi theme and the selection of a child as...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1230554688"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781230554686"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 32,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=PTMzngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=PTMzngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=PTMzngEACAAJ&dq=neuromancer&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=PTMzngEACAAJ&dq=neuromancer&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Brain_Computer_Interfacing_in_Fiction.html?hl=&id=PTMzngEACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=PTMzngEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Please note that the content of this book primarily consists of articles available from Wikipedia or other free sources online."
+   }
+  }
+ ]
+}

@@ -1,0 +1,797 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 90,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "5-L9Kli6MrkC",
+   "etag": "R1FcQ/n5aGM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5-L9Kli6MrkC",
+   "volumeInfo": {
+    "title": "Critical Neuroscience",
+    "subtitle": "A Handbook of the Social and Cultural Contexts of Neuroscience",
+    "authors": [
+     "Suparna Choudhury",
+     "Jan Slaby"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2011-09-07",
+    "description": "Critical Neuroscience brings together multi-disciplinary scholars from around the world to explore key social, historical and philosophical studies of neuroscience, and to analyze the socio-cultural implications of recent advances in the field. Original, interdisciplinary approach explores the creative potential for engaging experimental neuroscience with social studies of neuroscience Furthers the dialogue between neuroscience and the disciplines of the social sciences and humanities Transcends traditional scepticism, introducing novel ideas about ‘how to be critical’ in and about science Features contributions from eminent scholars including Steven Rose, Joseph Dumit, Laurence Kirmayer, Shaun Gallagher, Fernando Vidal, Allan Young and Joan Chiao",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781444343335"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1444343335"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.5.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=5-L9Kli6MrkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=5-L9Kli6MrkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=5-L9Kli6MrkC&pg=RA4-PA1983&dq=neuromance&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=5-L9Kli6MrkC&dq=neuromance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Critical_Neuroscience.html?hl=&id=5-L9Kli6MrkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 355.9,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 355.9,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=5-L9Kli6MrkC&dq=neuromance&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.559E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.559E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Critical_Neuroscience-sample-epub.acsm?id=5-L9Kli6MrkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Critical_Neuroscience-sample-pdf.acsm?id=5-L9Kli6MrkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=5-L9Kli6MrkC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eNeuromance\u003c/b\u003e. of. Cerebral. History. Max. Stadler. Once upon a time, when \u003cbr\u003e\nquizzed about the recent advances in the sciences of human brain, “Dr. Felix&quot; \u003cbr\u003e\nwas quick to reply that he rather had begun to “feel like Buck Rogers.” And, he \u003cbr\u003e\nadded, “we&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZpKv9kgCqnkC",
+   "etag": "h2QbyLPmyKI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZpKv9kgCqnkC",
+   "volumeInfo": {
+    "title": "Per Anhalter durch die Arbeitswelt",
+    "subtitle": "Ein Reiseführer mit Tipps für Studenten, Politiker und andere normale Menschen",
+    "authors": [
+     "Christian Scholz"
+    ],
+    "publisher": "BoD – Books on Demand",
+    "publishedDate": "2011",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783844854893"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3844854894"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 124,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=ZpKv9kgCqnkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=ZpKv9kgCqnkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.com.br/books?id=ZpKv9kgCqnkC&pg=PA97&dq=neuromance&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ZpKv9kgCqnkC&dq=neuromance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Per_Anhalter_durch_die_Arbeitswelt.html?hl=&id=ZpKv9kgCqnkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=ZpKv9kgCqnkC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Der Reiseführer definiert deshalb: \u003cb\u003eNEUROMANCER\u003c/b\u003e-WELT (1) beherrscht von \u003cbr\u003e\nGroßkonzernen mit (2) wenigen unsichtbaren ganz Reichen und (3) vielen \u003cbr\u003e\nsichtbar fast armen Gelegenheitsarbeitern. Sie verzichtet (4) auf seltsame \u003cbr\u003e\nKonstrukte&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "beDaAAAAQBAJ",
+   "etag": "Z5pW/o4VvpU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/beDaAAAAQBAJ",
+   "volumeInfo": {
+    "title": "Serial Killers",
+    "subtitle": "Death and Life in America's Wound Culture",
+    "authors": [
+     "Mark Seltzer"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2013-09-13",
+    "description": "In this provocative cultural study, the serial killer emerges as a central figure in what Mark Seltzer calls 'America's wound culture'. From the traumas displayed by talk show guests and political candidates, to the violent entertainment of Crash or The Alienist, to the latest terrible report of mass murder, we are surrounded by the accident from which we cannot avert our eyes. Bringing depth and shadow to our collective portrait of what a serial killer must be, Mark Seltzer draws upon popular sources, scholarly analyses, and the language of psychoanalysis to explore the genesis of this uniquely modern phenomenon. Revealed is a fascination with machines and technological reproduction, with the singular and the mass, with definitions of self, other, and intimacy. What emerges is a disturbing picture of how contemporary culture is haunted by technology and the instability of identity.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781135206864"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1135206864"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 312,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.6.6.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=beDaAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=beDaAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=beDaAAAAQBAJ&pg=PT263&dq=neuromance&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=beDaAAAAQBAJ&dq=neuromance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Serial_Killers.html?hl=&id=beDaAAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 108.09,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 108.09,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=beDaAAAAQBAJ&dq=neuromance&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.0809E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.0809E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Serial_Killers-sample-epub.acsm?id=beDaAAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Serial_Killers-sample-pdf.acsm?id=beDaAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=beDaAAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The understandingofcyberneticsas letter bombingpersistsagainst the grain of \u003cbr\u003e\ncyberpunk novels suchas William Gibson&#39;s \u003cb\u003eNeuromancer\u003c/b\u003e (NewYork: Ace, 1984)(\u003cbr\u003e\nin which the romanticisms of soul andthe nostalgias ofthe natural bodycould not \u003cbr\u003e\nbe&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6gVJBQAAQBAJ",
+   "etag": "iyX1sk495aY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6gVJBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Ciberespaço E Nova Economia No Comércio Varejista",
+    "authors": [
+     "João Paulo Silva Dos Santos"
+    ],
+    "publisher": "Clube de Autores",
+    "publishedDate": "2008-10-03",
+    "description": "Esta obra tem o intuito de elucidar questões envolvidas no processo da exploração do ciberespaço pelo comércio varejista diante do advento da nova economia. Considerando que essas informações são relevantes tanto para empresas como para clientes, envolvidos no processo econômico em todo o mundo, a discussão contida nesta obra poderá contribuir para o aprimoramento das práticas comerciais varejistas praticadas no ciberespaço.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "PKEY:90134923"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 98,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=6gVJBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=6gVJBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=6gVJBQAAQBAJ&pg=PA26&dq=neuromance&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=6gVJBQAAQBAJ&dq=neuromance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Ciberespa%C3%A7o_E_Nova_Economia_No_Com%C3%A9rci.html?hl=&id=6gVJBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.69,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.69,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=6gVJBQAAQBAJ&dq=neuromance&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9690000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9690000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Ciberespa%C3%A7o_E_Nova_Economia_No_Com%C3%A9rci-sample-pdf.acsm?id=6gVJBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=6gVJBQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "omo descrito anteriormente, o neologismo “ciberespaço” é fruto de uma obra \u003cbr\u003e\nliterária de ficção científica criada pelo escritor William Gibson, em 1984, \u003cbr\u003e\nintitulada “\u003cb\u003eNeuromance\u003c/b\u003e”, conforme já verificamos nas considerações de Lévy (\u003cbr\u003e\n2000)."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xCr8YgimA94C",
+   "etag": "vzzjfpppoNY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xCr8YgimA94C",
+   "volumeInfo": {
+    "title": "Relações públicas na internet técnicas e estratégias para informar e influenciar públicos de interesse",
+    "authors": [
+     "J B Pinho"
+    ],
+    "publisher": "Summus Editorial",
+    "publishedDate": "2003",
+    "description": "A internet representa hoje uma efetiva ferramenta de comunicação para o profissional de Relações Públicas. Seu caráter multidirecional permite estabelecer uma conexão aberta das empresas e instituições com seus diversos públicos de interesse. O autor apresenta de forma sistematizada, os recursos que a rede mundial pode oferecer como suporte adequado para estratégias de comunicação. Enfatizando a interatividade e a relevância do conteúdo, ele mostra vantagens e benefícios dos principais serviços da internet para atuar positivamente sobre seu público, sejam consumidores, investidores, mídia, comunidade ou governo.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8532307760"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788532307767"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 215,
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=xCr8YgimA94C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=xCr8YgimA94C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=xCr8YgimA94C&pg=PA187&dq=neuromance&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=xCr8YgimA94C&dq=neuromance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Rela%C3%A7%C3%B5es_p%C3%BAblicas_na_internet_t%C3%A9cnic.html?hl=&id=xCr8YgimA94C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=xCr8YgimA94C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... \u003cb\u003eNeuromance\u003c/b\u003e. client - Ver cliente. cliente - no contexto cliente/servidor, cliente é \u003cbr\u003e\num programa que pede determinado serviço (como a transferência de um \u003cbr\u003e\narquivo) a um servidor, outro programa ou computador. O cliente e o servidor \u003cbr\u003e\npodem&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Z2_vi6gbEXgC",
+   "etag": "tXpkaf6QO7g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Z2_vi6gbEXgC",
+   "volumeInfo": {
+    "title": "Multirrefencialidades da informação e comunicação",
+    "publisher": "Lara Lima Satler",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788587191809"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8587191802"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=Z2_vi6gbEXgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=Z2_vi6gbEXgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=Z2_vi6gbEXgC&pg=PA47&dq=neuromance&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Z2_vi6gbEXgC&dq=neuromance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Multirrefencialidades_da_informa%C3%A7%C3%A3o_e.html?hl=&id=Z2_vi6gbEXgC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=Z2_vi6gbEXgC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... como o Netscape, Explorer, a World Wide Web possibilita uma navegação \u003cbr\u003e\nmais fácil pela Internet. 2A palavra “ciberespaço” foi inventada em 1984 por \u003cbr\u003e\nWilliam Gibson em seu romance de ficção científica \u003cb\u003eNeuromance\u003c/b\u003e (LEVY, 1999, p\u003cbr\u003e\n. 93)."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "N4gaDAAAQBAJ",
+   "etag": "gDmpxjtXqNI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/N4gaDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Guia Informática ed.03 Windows 10",
+    "subtitle": "",
+    "authors": [
+     "On Line Editora"
+    ],
+    "publisher": "On Line Editora",
+    "publishedDate": "2016-05-03",
+    "description": "Guia completo com tudo o que você precisa saber para instalar, usar, trabalhar e se divertir! O jeito mais fácil de ficar expert no novo sistema operacional da Microsoft.",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 116,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=N4gaDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=N4gaDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=N4gaDAAAQBAJ&pg=PA88&dq=neuromance&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=N4gaDAAAQBAJ&dq=neuromance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Guia_Inform%C3%A1tica_ed_03_Windows_10.html?hl=&id=N4gaDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 9.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=N4gaDAAAQBAJ&dq=neuromance&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=N4gaDAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Segundo o autor William Gibson, em seu livro \u003cb\u003eNeuromance\u003c/b\u003e, (EUA, 1984), eles \u003cbr\u003e\nutilizam técnicas (como as descritas neste capítulo) para protestar contra a \u003cbr\u003e\nsistemática atual das grandes Corporações, geralmente com vandalismo virtual."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eP3-XqGrKQMC",
+   "etag": "3D3VehSIlCg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eP3-XqGrKQMC",
+   "volumeInfo": {
+    "title": "Admirável Chip Novo: A música na Era da Internet",
+    "authors": [
+     "ROSE MARIE SANTINI"
+    ],
+    "publisher": "Editora E-papers",
+    "description": "O texto trabalha as relações entre música e novas tecnologias, sob a base de competência e sensibilidade que operam em sintonia fina.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788576500391"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8576500396"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 214,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=eP3-XqGrKQMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=eP3-XqGrKQMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=eP3-XqGrKQMC&pg=PA53&dq=neuromance&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=eP3-XqGrKQMC&dq=neuromance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Admir%C3%A1vel_Chip_Novo_A_m%C3%BAsica_na_Era_da.html?hl=&id=eP3-XqGrKQMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=eP3-XqGrKQMC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O termo ciberespaço foi cunhado por Willian Gibson em seu livro \u003cb\u003eNeuromance\u003c/b\u003e, \u003cbr\u003e\n1984. O termo tem sido utilizado, principalmente por Pierre Levý, para fazer \u003cbr\u003e\nreferência à enorme teia da comunicação digital que tem se espalhado pelo \u003cbr\u003e\nmundo&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7Nf7I7_aUskC",
+   "etag": "QEGm1UAKXIw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7Nf7I7_aUskC",
+   "volumeInfo": {
+    "title": "Publicidade e vendas na Internet",
+    "subtitle": "técnicas e estratégias",
+    "authors": [
+     "José Benedito Pinho"
+    ],
+    "publisher": "Summus Editorial",
+    "publishedDate": "2000",
+    "description": "A expansão da Internet transformou-a num fenômeno de dimensões globais, marcado pela maciça presença de organizações, instituições e empresas comerciais, industriais e de serviços. Discute de maneira prática os procedimentos para promover a presença - em suas diversas formas - e as vendas de pequenas, médias e grandes empresas na rede. Obra indispensável a todos que queiram compreender a natureza, o papel e as funções das ferramentas proporcionadas por esta nova e fascinante mídia.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8532307469"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788532307460"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 354,
+    "printType": "BOOK",
+    "categories": [
+     "Direct marketing"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 11,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=7Nf7I7_aUskC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=7Nf7I7_aUskC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=7Nf7I7_aUskC&pg=PA315&dq=neuromance&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=7Nf7I7_aUskC&dq=neuromance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Publicidade_e_vendas_na_Internet.html?hl=&id=7Nf7I7_aUskC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=7Nf7I7_aUskC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Termo cunhado em analogia com o espaço sideral explorado pelos astronautas, \u003cbr\u003e\nsendo sua invenção atribuída ao escritor de ficção científica William Gibson no \u003cbr\u003e\nromance \u003cb\u003eNeuromance\u003c/b\u003e. click rate percentagem de ad views que resulta em click&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "qnb5CQAAQBAJ",
+   "etag": "P1sMx6Ob/KA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/qnb5CQAAQBAJ",
+   "volumeInfo": {
+    "title": "Culture in Mind",
+    "subtitle": "Cognition, Culture, and the Problem of Meaning",
+    "authors": [
+     "Bradd Shore"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "1998-10-29",
+    "description": "Despite the recognized importance of cultural diversity in understanding the modern world, the emerging science of cognitive psychology has relied far more on experimental psychology, neurobiology, and computer science than on cultural anthropology for its models of how we think. In this exciting new book, anthropologist Bradd Shore has created the first study linking multi-culturalism to cognitive psychology, exploring the complex relationship between culture in public institutions and in mental representations. In so doing, he answers in a completely new way the age old question of whether humans are basically the same psychologically, independent of cultures, or basically diverse because of cultural differences. The first half of the book emphasizes cultural models, from Australian Aboriginal rituals and Samoan comedy skits, to more familiar terrain, including a study of baseball as a cultural model for Americans. Along the way, the author sheds new and novel light on many familiar institutions, from educational curricula and shopping malls to modular furniture and cyberpunk fiction. These observations are then linked to theoretical developments in linguistics, semiotics, and neuroscience, creating a bold new approach to understanding the role of culture in everyday meaning making. The author argues that culture must be considered an intrinsic component of the human mind to a degree that most psychologists and even many anthropologists have not recognized. This new position of cultural models will make absorbing reading for psychologists, anthropologists, linguists, and philosophers, and to anyone interested in the issues of cultural diversity, multiculturalism, or cognitive science in general.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780190284398"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0190284390"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Psychology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=qnb5CQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=qnb5CQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=qnb5CQAAQBAJ&pg=PT224&dq=neuromance&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=qnb5CQAAQBAJ&dq=neuromance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Culture_in_Mind.html?hl=&id=qnb5CQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 119.53,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 119.53,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=qnb5CQAAQBAJ&dq=neuromance&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.1953E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.1953E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Culture_in_Mind-sample-epub.acsm?id=qnb5CQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Culture_in_Mind-sample-pdf.acsm?id=qnb5CQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=qnb5CQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "For most of us, the exuberant sense of power and freedom with language made \u003cbr\u003e\npossible by the word processor, the new romance/\u003cb\u003eneuromance\u003c/b\u003e of cybertech, \u003cbr\u003e\nmasks from us the true nature of the enframing that has accompanied it, the utter\u003cbr\u003e\n&nbsp;..."
+   }
+  }
+ ]
+}

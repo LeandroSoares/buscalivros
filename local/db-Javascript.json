@@ -1,0 +1,814 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 547,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "PXa2bby0oQ0C",
+   "etag": "o8VM1vaZUMw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PXa2bby0oQ0C",
+   "volumeInfo": {
+    "title": "JavaScript: The Good Parts",
+    "subtitle": "The Good Parts",
+    "authors": [
+     "Douglas Crockford"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2008-05-08",
+    "description": "Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a subset of JavaScript that's more reliable, readable, and maintainable than the language as a whole—a subset you can use to create truly extensible and efficient code. Considered the JavaScript expert by many people in the development community, author Douglas Crockford identifies the abundance of good ideas that make JavaScript an outstanding object-oriented programming language-ideas such as functions, loose typing, dynamic objects, and an expressive object literal notation. Unfortunately, these good ideas are mixed in with bad and downright awful ideas, like a programming model based on global variables. When Java applets failed, JavaScript became the language of the Web by default, making its popularity almost completely independent of its qualities as a programming language. In JavaScript: The Good Parts, Crockford finally digs through the steaming pile of good intentions and blunders to give you a detailed look at all the genuinely elegant parts of JavaScript, including: Syntax Objects Functions Inheritance Arrays Regular expressions Methods Style Beautiful features The real beauty? As you move ahead with the subset of JavaScript that this book presents, you'll also sidestep the need to unlearn all the bad parts. Of course, if you want to find out more about the bad parts and how to use them badly, simply consult any other JavaScript book. With JavaScript: The Good Parts, you'll discover a beautiful, elegant, lightweight and highly expressive language that lets you create effective code, whether you're managing object libraries or just trying to get Ajax to run fast. If you develop sites or applications for the Web, this book is an absolute must.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596554873"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0596554877"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 172,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 38,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.6.6.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=PXa2bby0oQ0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=PXa2bby0oQ0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=PXa2bby0oQ0C&printsec=frontcover&dq=Javascript&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=PXa2bby0oQ0C&dq=Javascript&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/JavaScript_The_Good_Parts.html?hl=&id=PXa2bby0oQ0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 57.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 57.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=PXa2bby0oQ0C&dq=Javascript&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.799E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.799E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=PXa2bby0oQ0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "If you develop sites or applications for the Web, this book is an absolute must."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "4RChxt67lvwC",
+   "etag": "KR3htMpEXnU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/4RChxt67lvwC",
+   "volumeInfo": {
+    "title": "JavaScript",
+    "subtitle": "The Definitive Guide",
+    "authors": [
+     "David Flanagan"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2011-04-25",
+    "description": "A revised and updated edition offers comprehensive coverage of ECMAScript 5 (the new JavaScript language standard) and also the new APIs introduced in HTML5, with chapters on functions and classes completely rewritten and updated to match current best practices and a new chapter on language extensions and subsets. Original.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596805524"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0596805527"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 1078,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.5.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=4RChxt67lvwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=4RChxt67lvwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=4RChxt67lvwC&printsec=frontcover&dq=Javascript&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=4RChxt67lvwC&dq=Javascript&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/JavaScript.html?hl=&id=4RChxt67lvwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=4RChxt67lvwC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A revised and updated edition offers comprehensive coverage of ECMAScript 5 (the new JavaScript language standard) and also the new APIs introduced in HTML5, with chapters on functions and classes completely rewritten and updated to match ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "tBbsAgAAQBAJ",
+   "etag": "H235NARv2E4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/tBbsAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Speaking JavaScript",
+    "subtitle": "An In-Depth Guide for Programmers",
+    "authors": [
+     "Axel Rauschmayer"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2014-02-25",
+    "description": "Like it or not, JavaScript is everywhere these days—from browser to server to mobile—and now you, too, need to learn the language or dive deeper than you have. This concise book guides you into and through JavaScript, written by a veteran programmer who once found himself in the same position. Speaking JavaScript helps you approach the language with four standalone sections. First, a quick-start guide teaches you just enough of the language to help you be productive right away. More experienced JavaScript programmers will find a complete and easy-to-read reference that covers each language feature in depth. Complete contents include: JavaScript quick start: Familiar with object-oriented programming? This part helps you learn JavaScript quickly and properly. JavaScript in depth: Learn details of ECMAScript 5, from syntax, variables, functions, and object-oriented programming to regular expressions and JSON with lots of examples. Pick a topic and jump in. Background: Understand JavaScript’s history and its relationship with other programming languages. Tips, tools, and libraries: Survey existing style guides, best practices, advanced techniques, module systems, package managers, build tools, and learning resources.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781449365011"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1449365019"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 460,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=tBbsAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=tBbsAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=tBbsAgAAQBAJ&printsec=frontcover&dq=Javascript&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=tBbsAgAAQBAJ&dq=Javascript&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Speaking_JavaScript.html?hl=&id=tBbsAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=tBbsAgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3BlbiA4z4n0C",
+   "etag": "HkGjvRNVUnI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3BlbiA4z4n0C",
+   "volumeInfo": {
+    "title": "O Guia Prático do Dreamweaver CS3 com PHP, JavaScript e Ajax",
+    "authors": [
+     "PEDRO REMOALDO"
+    ],
+    "publisher": "Centro Atlantico",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789896150587"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9896150583"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 676,
+    "printType": "BOOK",
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=3BlbiA4z4n0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=3BlbiA4z4n0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=3BlbiA4z4n0C&printsec=frontcover&dq=Javascript&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=3BlbiA4z4n0C&dq=Javascript&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/O_Guia_Pr%C3%A1tico_do_Dreamweaver_CS3_com_P.html?hl=&id=3BlbiA4z4n0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 51.23,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 51.23,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=3BlbiA4z4n0C&dq=Javascript&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.123E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.123E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/O_Guia_Pr%C3%A1tico_do_Dreamweaver_CS3_com_P-sample-pdf.acsm?id=3BlbiA4z4n0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=3BlbiA4z4n0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "U10PAQAAMAAJ",
+   "etag": "Zfwxm/Hy13w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/U10PAQAAMAAJ",
+   "volumeInfo": {
+    "title": "Javascript",
+    "authors": [
+     "Don Gosselin"
+    ],
+    "publisher": "Course Technology Ptr",
+    "publishedDate": "2004",
+    "description": "Create dynamic Web pages using the popular Web scripting language, JavaScript! Building on the successful philosophy of prior editions, this market leading text is perfect for beginning programmers with prior knowledge of HTML. This text features hands-on projects, a step-by-step methodology, as well as additional end-of-chapter exercises.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:49015003060994"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 636,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=U10PAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=U10PAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=U10PAQAAMAAJ&q=Javascript&dq=Javascript&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=U10PAQAAMAAJ&dq=Javascript&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Javascript.html?hl=&id=U10PAQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=U10PAQAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This text features hands-on projects, a step-by-step methodology, as well as additional end-of-chapter exercises."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2weL0iAfrEMC",
+   "etag": "0LpiC06Dw+A",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2weL0iAfrEMC",
+   "volumeInfo": {
+    "title": "JavaScript: The Definitive Guide",
+    "subtitle": "The Definitive Guide",
+    "authors": [
+     "David Flanagan"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2006-08-17",
+    "description": "This Fifth Edition is completely revised and expanded to cover JavaScript as it is used in today's Web 2.0 applications. This book is both an example-driven programmer's guide and a keep-on-your-desk reference, with new chapters that explain everything you need to know to get the most out of JavaScript, including: Scripted HTTP and Ajax XML processing Client-side graphics using the canvas tag Namespaces in JavaScript--essential when writing complex programs Classes, closures, persistence, Flash, and JavaScript embedded in Java applications Part I explains the core JavaScript language in detail. If you are new to JavaScript, it will teach you the language. If you are already a JavaScript programmer, Part I will sharpen your skills and deepen your understanding of the language. Part II explains the scripting environment provided by web browsers, with a focus on DOM scripting with unobtrusive JavaScript. The broad and deep coverage of client-side JavaScript is illustrated with many sophisticated examples that demonstrate how to: Generate a table of contents for an HTML document Display DHTML animations Automate form validation Draw dynamic pie charts Make HTML elements draggable Define keyboard shortcuts for web applications Create Ajax-enabled tool tips Use XPath and XSLT on XML documents loaded with Ajax And much more Part III is a complete reference for core JavaScript. It documents every class, object, constructor, method, function, property, and constant defined by JavaScript 1.5 and ECMAScript Version 3. Part IV is a reference for client-side JavaScript, covering legacy web browser APIs, the standard Level 2 DOM API, and emerging standards such as the XMLHttpRequest object and the canvas tag. More than 300,000 JavaScript programmers around the world have madethis their indispensable reference book for building JavaScript applications. \"A must-have reference for expert JavaScript programmers...well-organized and detailed.\" -- Brendan Eich, creator of JavaScript",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0596554478"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596554477"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 1032,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 55,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.3.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=2weL0iAfrEMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=2weL0iAfrEMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=2weL0iAfrEMC&printsec=frontcover&dq=Javascript&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=2weL0iAfrEMC&dq=Javascript&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/JavaScript_The_Definitive_Guide.html?hl=&id=2weL0iAfrEMC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 96.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 96.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=2weL0iAfrEMC&dq=Javascript&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9.699E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 9.699E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=2weL0iAfrEMC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This Fifth Edition is completely revised and expanded to cover JavaScript as it is used in today&#39;s Web 2.0 applications."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MigLW23xdzAC",
+   "etag": "LbKKEM7zD/c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MigLW23xdzAC",
+   "volumeInfo": {
+    "title": "JavaScript & JQuery",
+    "subtitle": "The Missing Manual",
+    "authors": [
+     "David McFarland"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2011-10-21",
+    "description": "Provides information on creating Web applications with JavaScript and the jQuery library of code.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781449399023"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1449399029"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 518,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=MigLW23xdzAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=MigLW23xdzAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=MigLW23xdzAC&printsec=frontcover&dq=Javascript&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=MigLW23xdzAC&dq=Javascript&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/JavaScript_JQuery.html?hl=&id=MigLW23xdzAC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=MigLW23xdzAC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Provides information on creating Web applications with JavaScript and the jQuery library of code."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZuTxAKCczMkC",
+   "etag": "Odl674EnNjs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZuTxAKCczMkC",
+   "volumeInfo": {
+    "title": "Javascript O Guia Definitivo",
+    "authors": [
+     "David Flanagan"
+    ],
+    "publisher": "Bookman",
+    "publishedDate": "2004",
+    "description": "'JavaScript - o guia definitivo' fornece uma descrição completa do núcleo da linguagem JavaScript, do padrão DOM e legado implementados nos navegadores Web. A obra traz seções de referência detalhadas que abrangem o núcleo da API JavaScript, a API 'legada' do lado cliente e a API padrão DOM do W3C, documentando cada objeto, método, propriedade, construtor, constante, e função de JavaScript, assim como o tratamento de eventos nessas APIs. Este guia também inclui exemplos de como validar dados em formulários, trabalhar com cookies e a criar animações portáveis usando DHTML. Esta edição fornece cobertura completa do padrão DOM W3C (nível 1 e nível 2), ao mesmo tempo em que contém material sobre o DOM nível 0 para retrocompatibilidade e abrange o JavaScript 1.5 (ECMAScript versão 3).",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8536304758"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788536304755"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 818,
+    "printType": "BOOK",
+    "averageRating": 4.5,
+    "ratingsCount": 9,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=ZuTxAKCczMkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=ZuTxAKCczMkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=ZuTxAKCczMkC&dq=Javascript&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ZuTxAKCczMkC&dq=Javascript&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Javascript_O_Guia_Definitivo.html?hl=&id=ZuTxAKCczMkC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=ZuTxAKCczMkC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&#39;JavaScript - o guia definitivo&#39; fornece uma descrição completa do núcleo da linguagem JavaScript, do padrão DOM e legado implementados nos navegadores Web."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9U5I_tskq9MC",
+   "etag": "Ey9fi+br8bY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9U5I_tskq9MC",
+   "volumeInfo": {
+    "title": "Eloquent JavaScript",
+    "subtitle": "A Modern Introduction to Programming",
+    "authors": [
+     "Marijn Haverbeke"
+    ],
+    "publisher": "No Starch Press",
+    "publishedDate": "2011",
+    "description": "Provides information and examples on writing JavaScript code, covering such topics as syntax, control, data, regular expressions, and scripting.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781593272821"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1593272820"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "COMPUTERS"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=9U5I_tskq9MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=9U5I_tskq9MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=9U5I_tskq9MC&printsec=frontcover&dq=Javascript&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=9U5I_tskq9MC&dq=Javascript&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Eloquent_JavaScript.html?hl=&id=9U5I_tskq9MC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 52.12,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 52.12,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=9U5I_tskq9MC&dq=Javascript&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.212E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.212E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=9U5I_tskq9MC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Provides information and examples on writing JavaScript code, covering such topics as syntax, control, data, regular expressions, and scripting."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ss5zPx4SNGsC",
+   "etag": "Q2E6NRKQ/a0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ss5zPx4SNGsC",
+   "volumeInfo": {
+    "title": "JavaScript Pocket Reference",
+    "authors": [
+     "David Flanagan"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2012-04-09",
+    "description": "JavaScript is the ubiquitous programming language of the Web, and for more than 15 years, JavaScript: The Definitive Guide has been the bible of JavaScript programmers around the world. Ideal for JavaScript developers at any level, this book is an all-new excerpt of The Definitive Guide, collecting the essential parts of that hefty volume into this slim yet dense pocket reference. The first 9 chapters document the latest version (ECMAScript 5) of the core JavaScript language, covering: Types, values, and variables Operators, expressions, and statements Objects and arrays Functions and classes The next 5 chapters document the fundamental APIs for using JavaScript with HTML5 and explain how to: Interact with web browser windows Script HTML documents and document elements Modify and apply CSS styles and classes Respond to user input events Communicate with web servers Store data locally on the user's computer This book is a perfect companion to jQuery Pocket Reference.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781449335991"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1449335993"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 280,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.5.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=ss5zPx4SNGsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=ss5zPx4SNGsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=ss5zPx4SNGsC&pg=PR7&dq=Javascript&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=ss5zPx4SNGsC&dq=Javascript&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/JavaScript_Pocket_Reference.html?hl=&id=ss5zPx4SNGsC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.99,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 19.99,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=ss5zPx4SNGsC&dq=Javascript&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.999E7,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.999E7,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=ss5zPx4SNGsC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eJavaScript\u003c/b\u003e is the programming language of the Web. The over- whelming \u003cbr\u003e\nmajority of modern websites use \u003cb\u003eJavaScript\u003c/b\u003e, and all modern web browsers—on \u003cbr\u003e\ndesktops, game consoles, tablets, and smartphones—include \u003cb\u003eJavaScript\u003c/b\u003e \u003cbr\u003e\ninterpreters,&nbsp;..."
+   }
+  }
+ ]
+}
