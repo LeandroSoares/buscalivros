@@ -1,0 +1,703 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 186,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "rtncKJg7eq0C",
+   "etag": "m//gFrwBvp0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rtncKJg7eq0C",
+   "volumeInfo": {
+    "title": "Mona Lisa Overdrive",
+    "authors": [
+     "William Gibson"
+    ],
+    "publisher": "Spectra",
+    "publishedDate": "1989",
+    "description": "Living in the vast computer landscape of cyberspace, young Mona taps into the mind of world-famous Sense/Net star Angie Mitchell who deciphers cyperspace plans, including those devised by Japanese underworld",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780553281743"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0553281747"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 308,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 21,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=rtncKJg7eq0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=rtncKJg7eq0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=rtncKJg7eq0C&dq=monalisa+overdrive&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=rtncKJg7eq0C&dq=monalisa+overdrive&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Mona_Lisa_Overdrive.html?hl=&id=rtncKJg7eq0C"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=rtncKJg7eq0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Living in the vast computer landscape of cyberspace, young Mona taps into the mind of world-famous Sense/Net star Angie Mitchell who deciphers cyperspace plans, including those devised by Japanese underworld"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "k8sWCAAAQBAJ",
+   "etag": "bavaowIuRak",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/k8sWCAAAQBAJ",
+   "volumeInfo": {
+    "title": "The Complete Sprawl Trilogy: Neuromancer, Count Zero, Mona Lisa Overdrive",
+    "authors": [
+     "William Gibson"
+    ],
+    "publisher": "HarperCollins UK",
+    "publishedDate": "2015-10-08",
+    "description": "William Gibson’s classic Sprawl trilogy includes NEUROMANCER which stands alongside BRAVE NEW WORLD and 1984 as one of the twentieth century’s most potent novels of the future.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780008121808"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "000812180X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 976,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.3.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=k8sWCAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=k8sWCAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=k8sWCAAAQBAJ&dq=monalisa+overdrive&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=k8sWCAAAQBAJ&dq=monalisa+overdrive&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/The_Complete_Sprawl_Trilogy_Neuromancer.html?hl=&id=k8sWCAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=k8sWCAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "William Gibson’s classic Sprawl trilogy includes NEUROMANCER which stands alongside BRAVE NEW WORLD and 1984 as one of the twentieth century’s most potent novels of the future."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5m_lXwAACAAJ",
+   "etag": "dcWh8b3tj70",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5m_lXwAACAAJ",
+   "volumeInfo": {
+    "title": "Sprawl Trilogy, Including",
+    "subtitle": "Neuromancer, Count Zero, Mona Lisa Overdrive, New Rose Hotel, the Sprawl, Burning Chrome (short Story Collection), Bobby Ne",
+    "authors": [
+     "Hephaestus Books"
+    ],
+    "publisher": "Hephaestus Books",
+    "publishedDate": "2011-08",
+    "description": "Please note that the content of this book primarily consists of articles available from Wikipedia or other free sources online. Hephaestus Books represents a new publishing paradigm, allowing disparate content sources to be curated into cohesive, relevant, and informative books. To date, this content has been curated from Wikipedia articles and images under Creative Commons licensing, although as Hephaestus Books continues to increase in scope and dimension, more licensed and public domain content is being added. We believe books such as this represent a new and exciting lexicon in the sharing of human knowledge. This particular book is a collaboration focused on Sprawl trilogy.More info: The Sprawl trilogy (also known as the Neuromancer, Cyberspace or Matrix trilogy) is William Gibson's first set of novels, composed of Neuromancer (1984), Count Zero (1986) and Mona Lisa Overdrive (1988).",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1242517049"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781242517044"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 42,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=5m_lXwAACAAJ&dq=monalisa+overdrive&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=5m_lXwAACAAJ&dq=monalisa+overdrive&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Sprawl_Trilogy_Including.html?hl=&id=5m_lXwAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=5m_lXwAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Please note that the content of this book primarily consists of articles available from Wikipedia or other free sources online."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Yn_sNAAACAAJ",
+   "etag": "8/sJU+04dmI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Yn_sNAAACAAJ",
+   "volumeInfo": {
+    "title": "Neuromancer",
+    "subtitle": "Count Zero ; Mona Lisa overdrive",
+    "authors": [
+     "William Gibson"
+    ],
+    "publishedDate": "1998",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "911300347X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789113003474"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 603,
+    "printType": "BOOK",
+    "categories": [
+     "Cyberpunk fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=Yn_sNAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=Yn_sNAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=Yn_sNAAACAAJ&dq=monalisa+overdrive&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=Yn_sNAAACAAJ&dq=monalisa+overdrive&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Neuromancer.html?hl=&id=Yn_sNAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=Yn_sNAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "G-GaAAAACAAJ",
+   "etag": "A/MQfjCrDFs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/G-GaAAAACAAJ",
+   "volumeInfo": {
+    "title": "Mona Lisa overdrive",
+    "subtitle": "een cyberpunk-thriller",
+    "authors": [
+     "William Gibson",
+     "Peter Cuijpers"
+    ],
+    "publishedDate": "1991",
+    "description": "In een wereld waarin men direct op computers kan worden aangesloten, bedreigt de kloon van een rijke zakenvrouw een geliefde actrice.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9029040173"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789029040174"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 301,
+    "printType": "BOOK",
+    "categories": [
+     "Cyberpunk fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "nl",
+    "previewLink": "http://books.google.com.br/books?id=G-GaAAAACAAJ&dq=monalisa+overdrive&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=G-GaAAAACAAJ&dq=monalisa+overdrive&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Mona_Lisa_overdrive.html?hl=&id=G-GaAAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=G-GaAAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In een wereld waarin men direct op computers kan worden aangesloten, bedreigt de kloon van een rijke zakenvrouw een geliefde actrice."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dTvrpqYZz2YC",
+   "etag": "5p2Fuqj0KxY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dTvrpqYZz2YC",
+   "volumeInfo": {
+    "title": "Demonic Possession, Spirit Possession, and Soul-loss in William Gibson's \"Sprawl Trilogy\".",
+    "publisher": "ProQuest",
+    "publishedDate": "2006",
+    "description": "William Gibson's Sprawl Trilogy---comprising Neuromancer (1984), Count Zero (1986), and Mona Lisa Overdrive (1988)---focuses on the techno-spiritual relationship between humanity and artificial intelligences (AIs). This thesis explores this relationship in the context of possession: demonic possession in the case of Neuromancer, and spirit possession, or \"trance states\" in general, in Count Zero and Mona Lisa Overdrive . The first chapter examines the human-technology relationship in Neuromancer as wholly negative, with the AIs' invasive acts associated with demonic possession. The second chapter examines the relationship between humanity and technology in Count Zero and Mona Lisa Overdrive as ambiguous. Specifically, the spirit possession of Bobby and Angie by AIs masquerading as Vodou gods is both positive and negative, and soul-loss, facilitated by the Aleph soul-catcher (a device that facilitates transcendence of the human condition from the physical to the cyber-spiritual realm), can also be viewed as beneficial and potentially harmful. Possession in Neuromancer reflects Gibson's belief that technology can be dangerous, but ultimately the changing attitude toward possession in the trilogy suggests that the human-AI relationship could result in a mutually beneficial symbiosis---even if possession cannot be viewed as a completely positive phenomenon.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0494202092"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780494202098"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 88,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=dTvrpqYZz2YC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=dTvrpqYZz2YC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=dTvrpqYZz2YC&dq=monalisa+overdrive&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=dTvrpqYZz2YC&dq=monalisa+overdrive&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Demonic_Possession_Spirit_Possession_and.html?hl=&id=dTvrpqYZz2YC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=dTvrpqYZz2YC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "William Gibson&#39;s Sprawl Trilogy---comprising Neuromancer (1984), Count Zero (1986), and Mona Lisa Overdrive (1988)---focuses on the techno-spiritual relationship between humanity and artificial intelligences (AIs)."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "enWSYx5D9FwC",
+   "etag": "J0LIdZp+OOM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/enWSYx5D9FwC",
+   "volumeInfo": {
+    "title": "Gothic Motifs in the Fiction of William Gibson",
+    "authors": [
+     "Tatiani G. Rapatzikou"
+    ],
+    "publisher": "Rodopi",
+    "publishedDate": "2004",
+    "description": "Gibson's startlingly new form of science fiction opens inner vistas through his sense of how technological development increasingly removes the boundaries between the realms of the imagined and the real. This important new study focuses on the visual elements in Gibson's work, suggesting how his extraordinary mindscapes are locatable in terms of both gothic and the graphic novel traditions in a subtle interweaving of physical and virtual space that creates new forms of spatial being. Gibson describes the space of the Walled City as Doorways flipping past, each one hinting at its own secret world: Tatiani G. Rapatzikou's thoughtful analyses of those secret worlds will fascinate all those who have wondered where these fictions have come from-and where they may be headed.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9042017619"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789042017610"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 253,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=enWSYx5D9FwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=enWSYx5D9FwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=enWSYx5D9FwC&pg=PA75&dq=monalisa+overdrive&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=enWSYx5D9FwC&dq=monalisa+overdrive&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Gothic_Motifs_in_the_Fiction_of_William.html?hl=&id=enWSYx5D9FwC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 172.36,
+     "currencyCode": "BRL"
+    },
+    "retailPrice": {
+     "amount": 172.36,
+     "currencyCode": "BRL"
+    },
+    "buyLink": "http://books.google.com.br/books?id=enWSYx5D9FwC&dq=monalisa+overdrive&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.7236E8,
+       "currencyCode": "BRL"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.7236E8,
+       "currencyCode": "BRL"
+      },
+      "giftable": true
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Gothic_Motifs_in_the_Fiction_of_William-sample-pdf.acsm?id=enWSYx5D9FwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=enWSYx5D9FwC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The Idea of the Spectacular: Neuromancer, \u003cb\u003eMona Lisa Overdrive\u003c/b\u003e and Count Zero \u003cbr\u003e\n1n the words of J. G. Ballard, &quot;science and technology multiply around us. To an \u003cbr\u003e\nincreasing extent they dictate the languages in which we speak and think."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oCvNPgAACAAJ",
+   "etag": "dVXMjhMG9C0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oCvNPgAACAAJ",
+   "volumeInfo": {
+    "title": "De cyberpunkromans",
+    "subtitle": "Zenumagiër, Biochips, Mona Lisa overdrive",
+    "authors": [
+     "William Gibson",
+     "Peter Cuijpers"
+    ],
+    "publishedDate": "1994",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9029049367"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789029049368"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 798,
+    "printType": "BOOK",
+    "categories": [
+     "Cyberpunk fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=oCvNPgAACAAJ&dq=monalisa+overdrive&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=oCvNPgAACAAJ&dq=monalisa+overdrive&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/De_cyberpunkromans.html?hl=&id=oCvNPgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=oCvNPgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gJ0IMQWMVpYC",
+   "etag": "bMgEDuIwMTE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gJ0IMQWMVpYC",
+   "volumeInfo": {
+    "title": "Escape Velocity",
+    "subtitle": "Cyberculture at the End of the Century",
+    "authors": [
+     "Mark Dery"
+    ],
+    "publisher": "Grove Press",
+    "publishedDate": "1996",
+    "description": "A critique of the Information Age explores the high-tech subcultures that have evolved as a result of technological advances, and discusses cyberpunks, technopagans, rogue technologists, and cyberhippies",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "080213520X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780802135209"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 376,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=gJ0IMQWMVpYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=gJ0IMQWMVpYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com.br/books?id=gJ0IMQWMVpYC&pg=PA55&dq=monalisa+overdrive&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=gJ0IMQWMVpYC&dq=monalisa+overdrive&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/Escape_Velocity.html?hl=&id=gJ0IMQWMVpYC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Escape_Velocity-sample-epub.acsm?id=gJ0IMQWMVpYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.com.br/books/download/Escape_Velocity-sample-pdf.acsm?id=gJ0IMQWMVpYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=gJ0IMQWMVpYC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot;In all the signs your kind have stored against the night,&quot; explains an AI in \u003cb\u003eMona\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eLisa Overdrive\u003c/b\u003e, &quot;the paradigms of voudou proved most appropriate.&quot;&quot;0 In Count \u003cbr\u003e\nZero, the Finn, a dealer in exotic, often contraband technologies, elaborates: The\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0Zt-CXcM90oC",
+   "etag": "/zY6MHQJ0KM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0Zt-CXcM90oC",
+   "volumeInfo": {
+    "title": "33 milhões de pessoas na sua rede de contatos",
+    "authors": [
+     "JULIETTE POWELL",
+     "LEONARDO ABRAMOWICZ"
+    ],
+    "publisher": "Editora Gente Liv e Edit Ltd",
+    "description": "Neste livro, a autora busca mostrar que, quando sentamos em um almoço de negócios e cada um dos participantes coloca um celular à sua frente, deixam de ser apenas dois, três ou quatro indivíduos. Por meio de um simples toque nas teclas, passam a estar ao redor da mesa 33 milhões de pessoas. Esta obra visa apresentar o que significam e quais são as redes sociais. Com exemplos práticos, o livro argumenta que as redes sociais como - Orkut, Facebook ou Twitter não são mais apenas atividades de adolescentes - elas representam uma realidade com oportunidades para empreendedores.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788573126761"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8573126760"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 168,
+    "printType": "BOOK",
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com.br/books/content?id=0Zt-CXcM90oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com.br/books/content?id=0Zt-CXcM90oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.com.br/books?id=0Zt-CXcM90oC&pg=PA110&dq=monalisa+overdrive&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.com.br/books?id=0Zt-CXcM90oC&dq=monalisa+overdrive&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.com.br/books/about/33_milh%C3%B5es_de_pessoas_na_sua_rede_de_co.html?hl=&id=0Zt-CXcM90oC"
+   },
+   "saleInfo": {
+    "country": "BR",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "BR",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.com.br/books/reader?id=0Zt-CXcM90oC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Gibson, 20 anos atrás, visualizou e profetizou a era da informática escrevendo o \u003cbr\u003e\nclássico Neuromancer (e depois Count zero e \u003cb\u003eMonalisa overdrive\u003c/b\u003e), que foi \u003cbr\u003e\nfilmado como Matrix, em trilogia que teve muito sucesso no Brasil e em ou- tros&nbsp;..."
+   }
+  }
+ ]
+}

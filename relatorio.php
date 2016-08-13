@@ -26,7 +26,17 @@ function parseBuscaToJsonData($data) {
     $r = json_encode($chartData);
     return $r;
 }
-
+function maisBuscado($data){
+    $livro='';
+    $total=0;
+    foreach ($data as $value) {
+        if($value['quantidade'] > $total) {
+            $total = $value['quantidade'];
+            $livro = $value['busca'];
+        }
+    };
+    return ''.$livro;
+}
 function mediaBuscaPHr($data) {
     $count=0;
     $total=0;
@@ -39,6 +49,12 @@ function mediaBuscaPHr($data) {
 
 ?>
 <body>
+    <style media="screen">
+        .ct-label{
+            font-size: 12px;
+        }
+    </style>
+
     <header id="header">
         <h1 class='text-center'>TraçaLivros - Relatório</h1>
     </header>
@@ -49,30 +65,43 @@ function mediaBuscaPHr($data) {
     </nav>
 
     <div id="main" class='container'>
-    <pre>
-
-        <!-- <?php print_r() ;?> -->
-    </pre>
-
     <script type="text/javascript">
-        var charContagemPorHoraData = <?php echo '' . parseBuscaToJsonData($buscasPorHora);?>;
-        var charLineOptions = { fullWidth: true, chartPadding: { right: 40 } };
 
-        document.addEventListener('DOMContentLoaded',function(){
+        var charContagemPorHoraData = <?php echo '' . parseBuscaToJsonData($buscasPorHora);?>;
+        var charTermosMaisBuscados = <?php echo '' . parseBuscaToJsonData($termosMaisBuscados);?>;
+        var charLineOptions = { fullWidth: true ,height: (charContagemPorHoraData.labels.length*40+40)+'px'};
+        var charLineOptions2 = { horizontalBars: true, fullWidth: true, height: (charTermosMaisBuscados.labels.length*40+40)+'px', chartPadding: { left: 40 } };
+
+        document.addEventListener('DOMContentLoaded', function() {
             new Chartist.Line('.ct-chart-busca-por-hora', charContagemPorHoraData, charLineOptions);
+            new Chartist.Bar('.ct-chart-busca-nome', charTermosMaisBuscados, charLineOptions2);
         });
 
     </script>
-    <h2>Acessos por hora</h2>
-    <h3>Média de acessos por hora: <?php echo ''.mediaBuscaPHr($buscasPorHora).'.';?></h3>
-    <div class="panel panel-default col-md-6 ">
-        <div class="panel-body">
-            <div class="ct-chart-busca-por-hora">
-
+    <div class="">
+        <div class=" col-md-6 ">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <h2>Acessos por hora</h2>
+                    <h3>Média de acessos por hora: <?php echo '' . mediaBuscaPHr($buscasPorHora).'.';?></h3>
+                    <h3>Hora de maior atividade: <?php echo '' . maisBuscado($buscasPorHora).'h.';?></h3>
+                    <div class="panel-body">
+                        <div class="ct-chart-busca-por-hora"> </div>
+                    </div>
+                </div>
             </div>
-
         </div>
-
+        <div class=" col-md-6 ">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <h2>Termos mais buscados</h2>
+                    <h3>Termo mais buscado: <?php echo '' . maisBuscado($termosMaisBuscados).'.';?></h3>
+                    <div class="panel-body">
+                        <div class="ct-chart-busca-nome"> </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
     </div>
 
